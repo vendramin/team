@@ -1,7 +1,7 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: Our research group
-description: Non-commutative algebra
+title: VUB Research Group
+description: Non-commutative algebra: Skew braces and the Yang-Baxter equation
 show_downloads: false
 is_project_page: false
