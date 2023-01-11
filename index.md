@@ -22,10 +22,8 @@ Do you want to do your PhD at VUB? Consider an [FWO PhD Fellowship](https://www.
 ### Postdocs
 
 * [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite?pli=1)
-* [Kevin Piterman]()
+* [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/)
 * [Arne Van Antwerpen](https://vanantwerpen.github.io/)
-
-% ### Former members
 
 Are you considering doing a postdoc at VUB? Here you will find possible funding schemes: 
 
