@@ -1,22 +1,3 @@
-# Our esearch group
-
-## Members
-
-### PhD students
-
-#### Current
-#### Former
-
-### Postdocs
-
-#### Current
-#### Former
-
-### Publications
-#### Preprints
-#### Accepted
-#### Published 
-
-### Conferences
+## README
 
 The webpage of my research team. 
