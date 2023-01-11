@@ -1,4 +1,4 @@
-theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/modernist@v0.2.0
 title: Our research group
 description: Non-commutative algebra
 show_downloads: false
