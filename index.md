@@ -37,7 +37,7 @@ Click [here](grants.md) to see our grants.
 
 ## Seminar 
 
-The webpage of our algebra seminar is [here](qa.md). 
+The webpage of our algebra seminar is [here](QA.md). 
 
 ## Visitors
 
