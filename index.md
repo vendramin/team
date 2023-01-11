@@ -1,7 +1,7 @@
 ## Members
 
-* [Leandro Vendramin](https://leandrovendramin.org/).
 * Eric Jespers.
+* [Leandro Vendramin](https://leandrovendramin.org/).
 
 ### PhD students
 
@@ -37,7 +37,7 @@ Click [here](grants.md) to see our grants.
 
 ## Seminar 
 
-The webpage of our algebra seminar is [here](https://leandrovendramin.org/qa.html). 
+The webpage of our algebra seminar is [here](qa). 
 
 ## Visitors
 
