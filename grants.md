@@ -1,6 +1,6 @@
 ## Grants 
 
-### FWO Grants
+### FWO
 
 * 2022-2024. FWO Postdoc Grant for Kevin Piterman (FWOTM1118): p-local properties of Skew Braces and solutions to the Yang-Baxter equations. 
 * 2021-2025. FWO Predoc Grant for Senne Trappeniers (FWOTM1085): The combinatorics of the Yang-Baxter equation and related algebraic structures. 
