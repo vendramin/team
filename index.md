@@ -7,23 +7,23 @@
 
 #### Current
 
-* Emiliano Acri (IMAS-CONICET, supervised by L. Vendramin, from 2018).
-* [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home) (supervised by L. Vendramin and J. Vercruysse, from 2021).
-* Silvia Properzi (supervised by A. Van Antwerpen and L. Vendramin, from 2022). 
-* Santiago Ramírez (IMAS-CONICET, supervised by L. Vendramin, from 2019).
-* Senne Trappeniers (supervised by A. Van Antwerpen and L. Vendramin, from 2021).
+* (2022) Silvia Properzi. Supervisors: A. Van Antwerpen and L. Vendramin. 
+* (2021) [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home). Supervisors: L. Vendramin and J. Vercruysse. 
+* (2021) Senne Trappeniers. Supervisors: A. Van Antwerpen and L. Vendramin.
+* (2019) Santiago Ramírez. Supervisor: L. Vendramin.
+* (2018) Emiliano Acri. Supervisor: L. Vendramin. 
 
 #### Former
 
-* Charlotte Verwimp (supervised by Eric Jespers, 2018-2022), [thesis](https://leandrovendramin.org/files/verwimp.pdf).
+* (2018-2022) Charlotte Verwimp. Supervisor: Eric Jespers, [thesis](https://leandrovendramin.org/files/verwimp.pdf).
 
 Do you want to do your PhD at VUB? Consider an [FWO PhD Fellowship](https://www.fwo.be/en/fellowships-funding/phd-fellowships/). 
 
 ### Postdocs
 
-* [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite?pli=1)
-* [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/)
-* [Arne Van Antwerpen](https://vanantwerpen.github.io/)
+* [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite?pli=1).
+* [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/).
+* [Arne Van Antwerpen](https://vanantwerpen.github.io/).
 
 Are you considering doing a postdoc at VUB? Here you will find possible funding schemes: 
 
