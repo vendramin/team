@@ -43,7 +43,7 @@ The webpage of our algebra seminar is [here](QA.md).
 
 Click [here](visitors.md) for a detailed list of long and short term visitors. 
 
-## Conferences
+## Conferences organized 
 
 Click [here](conferences.md) for the list of conferences organized by our group. 
 
