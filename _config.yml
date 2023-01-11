@@ -1,4 +1,6 @@
-theme: jekyll-theme-hacker
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: VUB Research Group
 description: Non-commutative algebra: Skew braces and the Yang-Baxter equation
 show_downloads: false
