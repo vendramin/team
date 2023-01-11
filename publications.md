@@ -2,7 +2,7 @@
 
 ## Preprints
 
-* L. Stefanello, S. Trappeniers. [On the connection between Hopf-Galois structures and skew braces](https://arxiv.org/abs/2206.07610)
+* L. Stefanello, S. Trappeniers. [On the connection between Hopf-Galois structures and skew braces](https://arxiv.org/abs/2206.07610).
 * S. Trappeniers. [On two-sided skew braces](https://arxiv.org/abs/2208.04772).
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen, C. Verwimp. [Finite idempotent set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2212.07361).
 * T. Letourmy, L. Vendramin. [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414). 
