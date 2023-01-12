@@ -31,22 +31,23 @@ Are you considering doing a postdoc at VUB? Here you will find possible funding 
 * [Feodor Lynen Research Fellowships](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship): Only if you obtained your PhD in Germany.
 * [FWO Postdoctoral Fellowships](https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/).
 
-## Grants 
+## Publications
 
-Click [here](grants.md) to see our grants. 
+Click [here](publications.md) for the list of publications.
 
 ## Seminar 
 
 The webpage of our algebra seminar is [here](QA.md). 
 
-## Visitors
-
-Click [here](visitors.md) for a detailed list of long and short term visitors. 
-
 ## Conferences organized 
 
 Click [here](conferences.md) for the list of conferences organized by our group. 
 
-## Publications
+## Grants 
 
-Click [here](publications.md) for the list of publications.
+Click [here](grants.md) to see our grants. 
+
+## Visitors
+
+Click [here](visitors.md) for a detailed list of long and short term visitors. 
+
