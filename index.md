@@ -3,6 +3,18 @@
 * Eric Jespers.
 * [Leandro Vendramin](https://leandrovendramin.org/).
 
+### Postdocs
+
+* [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite?pli=1).
+* [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/).
+* [Arne Van Antwerpen](https://vanantwerpen.github.io/).
+
+Are you considering doing a postdoc at VUB? Here you will find possible funding schemes: 
+
+* [Marie Skłodowska Curie (MSCA) Individual Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
+* [Feodor Lynen Research Fellowships](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship): Only if you obtained your PhD in Germany.
+* [FWO Postdoctoral Fellowships](https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/).
+
 ### PhD students
 
 #### Current
@@ -18,18 +30,6 @@
 * (2018-2022) Charlotte Verwimp. Supervisor: Eric Jespers, [thesis](https://leandrovendramin.org/files/verwimp.pdf).
 
 Do you want to do your PhD at VUB? Consider an [FWO PhD Fellowship](https://www.fwo.be/en/fellowships-funding/phd-fellowships/). 
-
-### Postdocs
-
-* [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite?pli=1).
-* [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/).
-* [Arne Van Antwerpen](https://vanantwerpen.github.io/).
-
-Are you considering doing a postdoc at VUB? Here you will find possible funding schemes: 
-
-* [Marie Skłodowska Curie (MSCA) Individual Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
-* [Feodor Lynen Research Fellowships](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship): Only if you obtained your PhD in Germany.
-* [FWO Postdoctoral Fellowships](https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/).
 
 ## Publications
 
