@@ -25,7 +25,9 @@
   
 ### 2022
 
-* I. Colazzo, E. Jespers, A. Van Antwerpen, C. Verwimp, [Left non-degenerate set-theoretic solutions of the Yang-Baxter equation and semitrusses](https://www.sciencedirect.com/science/article/pii/S0021869322003520?via%3Dihub), _J. Algebra 610 (2022), 409-462_.
+* F. Cedó, E. Jespers, J. Okniński. [Primitive set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2003.01983). _Commun. Contemp. Math. 24 (2022), no. 9, Paper No. 2150105, 10 pp_. 
+* A. Bächle, G. Janssens, E. Jespers, A. Kiefer, D. Temmerman. [A dichotomy for integral group rings via higher modular groups as amalgamated products](https://arxiv.org/abs/1811.12226). _J. Algebra 604 (2022), 185–223_. 
+* I. Colazzo, E. Jespers, A. Van Antwerpen, C. Verwimp. [Left non-degenerate set-theoretic solutions of the Yang-Baxter equation and semitrusses](https://www.sciencedirect.com/science/article/pii/S0021869322003520?via%3Dihub), _J. Algebra 610 (2022), 409-462_.
 * V. Lebed, L. Vendramin. [Reflection equation as a tool for studying solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.01752). _J. Algebra 607 (2022), 360–380_.
 * Ö. Akgün, M. Mereb, L. Vendramin. [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483). _Math. Comp. 91 (2022), no. 335, 1469–1481_, [code](https://zenodo.org/badge/latestdoi/283301509).
 * S. Ramírez, L. Vendramin. [Decomposition theorems for involutive solutions to the Yang-Baxter
@@ -35,5 +37,11 @@
 
 ### 2021
 
+* E. Jespers. [Structure of group rings and the group of units of integral group rings: an invitation](https://arxiv.org/abs/2008.11569). _Indian J. Pure Appl. Math. 52 (2021), no. 3, 687–708_. 
+* A. Bächle, M. Caicedo, E. Jespers, S. Maheshwary. [Global and local properties of finite groups with only finitely many central units in their integral group ring](https://arxiv.org/abs/1808.03546). _J. Group Theory 24 (2021), no. 6, 1163–1188_. 
+* F. Cedó, E. Jespers, C. Verwimp. [Structure monoids of set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/1912.09710). _Publ. Mat. 65 (2021), no. 2, 499–528_.
+* E. Jespers, W-L. Sun. [Nilpotent decomposition in integral group rings](https://arxiv.org/abs/2010.07957). _J. Algebra 575 (2021), 127–158_.
+* F. Cedó, E. Jespers, J. Okniński. [Set-theoretic solutions of the Yang-Baxter equation, associated quadratic algebras and the minimality condition](). _Rev. Mat. Complut. 34 (2021), no. 1, 99–129_.
+* F. Cedó, E. Jespers, J. Okniński. [Every finite abelian group is a subgroup of the additive group of a finite simple left brace](https://arxiv.org/abs/2001.08905). _J. Pure Appl. Algebra 225 (2021), no. 1, Paper No. 106476, 10 pp_.
 * E. Jespers, Ł. Kubat, A. Van Antwerpen, L. Vendramin. [Radical and weight of skew braces and their applications to structure groups of solutions of the Yang-Baxter equation](https://arxiv.org/abs/2001.10967). _Adv. Math. 385 (2021), 107767_.
 * O. Konovalov, A. Smoktunowicz, L. Vendramin. [On skew braces and their ideals](https://arxiv.org/abs/1804.04106). _Exp. Math. 30 (2021), no. 1, 95–104_, [errata](https://doi.org/10.1080/10586458.2021.1980466).
