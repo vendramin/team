@@ -9,12 +9,13 @@
 * I. Heckenberger, L. Vendramin. [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115).
 * V. Lebed, S. Ramírez, L. Vendramin. [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041).
 * W. Rump, L. Vendramin. [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001).
+* G. Janssens, E. Jespers, O. Schnabel. [Units of twisted group rings and their correlations to classical group rings](https://arxiv.org/abs/2203.17220).
 
 ## Accepted for publication
 
-* C. Dietzel, P. Menchón, L. Vendramin. [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955). Accepted for publication in _Math. Comp._ [code](https://zenodo.org/badge/latestdoi/417288153).
+* C. Dietzel, P. Menchón, L. Vendramin. [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955). _Math. Comp._ [code](https://zenodo.org/badge/latestdoi/417288153).
 * E. Jespers, A. Van Antwerpen, L. Vendramin. [Nilpotency of skew braces and multipermutation solutions of the
-  Yang-Baxter equation](http://arxiv.org/abs/2205.01572). Accepted for publication in _Commun. Contemp. Math._
+  Yang-Baxter equation](http://arxiv.org/abs/2205.01572). _Commun. Contemp. Math._
 
 ## Published
 
@@ -39,7 +40,7 @@
 
 * E. Jespers. [Structure of group rings and the group of units of integral group rings: an invitation](https://arxiv.org/abs/2008.11569). _Indian J. Pure Appl. Math. 52 (2021), no. 3, 687–708_. 
 * A. Bächle, M. Caicedo, E. Jespers, S. Maheshwary. [Global and local properties of finite groups with only finitely many central units in their integral group ring](https://arxiv.org/abs/1808.03546). _J. Group Theory 24 (2021), no. 6, 1163–1188_. 
-* F. Cedó, E. Jespers, C. Verwimp. [Structure monoids of set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/1912.09710). _Publ. Mat. 65 (2021), no. 2, 499–528_.
+* F. Cedó, E. Jespers, C. Verwimp. [Structure monoids of set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/1912.09710). _Publ. Mat. 65 (2021), no. 2, 499–528_, [Corrigendum and Addendum](https://arxiv.org/abs/2202.03174). 
 * E. Jespers, W-L. Sun. [Nilpotent decomposition in integral group rings](https://arxiv.org/abs/2010.07957). _J. Algebra 575 (2021), 127–158_.
 * F. Cedó, E. Jespers, J. Okniński. [Set-theoretic solutions of the Yang-Baxter equation, associated quadratic algebras and the minimality condition](). _Rev. Mat. Complut. 34 (2021), no. 1, 99–129_.
 * F. Cedó, E. Jespers, J. Okniński. [Every finite abelian group is a subgroup of the additive group of a finite simple left brace](https://arxiv.org/abs/2001.08905). _J. Pure Appl. Algebra 225 (2021), no. 1, Paper No. 106476, 10 pp_.
