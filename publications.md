@@ -16,6 +16,7 @@
 * C. Dietzel, P. Menchón, L. Vendramin. [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955). _Math. Comp._ [code](https://zenodo.org/badge/latestdoi/417288153).
 * E. Jespers, A. Van Antwerpen, L. Vendramin. [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572). _Commun. Contemp. Math._
+* A. Bächle, G. Janssens, E. Jespers, A. Kiefer, D. Temmerman. [Abelianization and fixed point properties of units in integral group rings](https://arxiv.org/abs/1811.12184). _Math. Nachr._
 
 ## Published
 
