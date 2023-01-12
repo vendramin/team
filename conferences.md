@@ -1,15 +1,19 @@
 ## Conferences organized 
 
+## 2024
+
+* Skew braces, braids and the Yang-Baxter equation, Banff, Canada. Organizers: I. Colazzo, J. Plavnik, E. Rowell, L. Vendramin.  
+
 ## 2023
 
-* [Groups, rings and the Yang-Baxter equation](http://www.ilariacolazzo.info/gryb2023/), Blankenberge, Belgium.
-* [Overwolfach mini-workshop (2309a): Skew Braces and the Yang–Baxter Equation](https://www.mfo.de/occasion/2309a/www_view), Oberwolfach, Germany.
+* [Groups, rings and the Yang-Baxter equation](http://www.ilariacolazzo.info/gryb2023/), Blankenberge, Belgium. Organizers: I. Colazzo, A. Van Antwerpen, L. Vendramin. 
+* [Overwolfach mini-workshop (2309a): Skew Braces and the Yang–Baxter Equation](https://www.mfo.de/occasion/2309a/www_view), Oberwolfach, Germany. Organizers: T. Brzezinski, I. Colazzo, A. Doikou, L. Vendramin.  
 
 ## 2022
 
-*   [The algebra of the Yang–Baxter equation](https://www.impan.pl/en/activities/banach-center/conferences/21-algebraybaxter), Stefan Banach International Mathematical Center, Bedlewo, Poland.
+*   [The algebra of the Yang–Baxter equation](https://www.impan.pl/en/activities/banach-center/conferences/21-algebraybaxter), Stefan Banach International Mathematical Center, Bedlewo, Poland. Organizers: I. Colazzo, J. Okninski, L. Vendramin. 
 
 ## 2021
 
-*   [CLAM VI, Congreso Latinoamericano de Matemáticos](https://clam2021.cmat.edu.uy). Session on [Quantum Symmetries](https://clam2021.cmat.edu.uy/sesiones/27), Virtual Meeting.
-*   [MCA2021, Mathematical Congress of the Americas](https://www.mca2021.org/en/). Session on [Quantum Symmetries](https://www.mca2021.org/en/special-sessions/item/46-quantum-symmetries). Virtual Meeting. 
+*   [CLAM VI, Congreso Latinoamericano de Matemáticos](https://clam2021.cmat.edu.uy). Session on [Quantum Symmetries](https://clam2021.cmat.edu.uy/sesiones/27), Virtual Meeting. Organizers: C. Galindo, J. Plavnik, L. Vendramin. 
+*   [MCA2021, Mathematical Congress of the Americas](https://www.mca2021.org/en/). Session on [Quantum Symmetries](https://www.mca2021.org/en/special-sessions/item/46-quantum-symmetries). Virtual Meeting. Organizers: M. Müller, J. Plavnik, L. Vendramin. 
