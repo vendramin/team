@@ -1,4 +1,4 @@
-## QA Seminar
+## Algebra Seminar
 
 * [2023](2023.md)
 
