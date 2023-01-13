@@ -29,7 +29,7 @@ Click [here](publications.md) for the list of publications.
 
 ## Seminar 
 
-The webpage of our algebra seminar is [here](QA.md). 
+The webpage of our algebra seminar is [here](seminar.md). 
 
 ## Conferences organized 
 
