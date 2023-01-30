@@ -9,8 +9,8 @@
 ### 2022
 
 * Ilaria Colazzo (Exeter, UK), 16/5-21/5.
-* Lorenzo Stefanello (Exeter, UK), 16/5-21/5.
-* Dora Puljic (Exeter, UK), 16/5-21/5.
+* Lorenzo Stefanello (Pisa, Italy), 16/5-21/5.
+* Dora Puljic (Edinburgh, UK), 16/5-21/5.
 * Ángel del Río (Murcia, Spain), 18/4-22/4.
 
 ### 2021
