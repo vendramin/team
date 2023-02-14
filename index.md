@@ -15,7 +15,7 @@
 
 * (2022) Silvia Properzi. Supervisors: A. Van Antwerpen and L. Vendramin. 
 * (2021) [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home). Supervisors: L. Vendramin and J. Vercruysse. 
-* (2021) Senne Trappeniers. Supervisors: A. Van Antwerpen and L. Vendramin.
+* (2021) [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage). Supervisors: A. Van Antwerpen and L. Vendramin.
 * (2019) Santiago Ramírez. Supervisor: L. Vendramin.
 * (2018) Emiliano Acri. Supervisor: L. Vendramin. 
 
