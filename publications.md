@@ -4,7 +4,6 @@
 
 * C. Dietzel, R. Sastriques. [Indecomposable set-theoretical solutions to the Yang-Baxter equation on a set of size pq](https://arxiv.org/abs/2302.04636).
 * T. Letourmy, L. Vendramin. [Schur covers of skew braces](https://arxiv.org/abs/2302.03970).
-* L. Stefanello, S. Trappeniers. [On the connection between Hopf-Galois structures and skew braces](https://arxiv.org/abs/2206.07610).
 * S. Trappeniers. [On two-sided skew braces](https://arxiv.org/abs/2208.04772).
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen, C. Verwimp. [Finite idempotent set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2212.07361).
 * T. Letourmy, L. Vendramin. [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414). 
@@ -15,6 +14,7 @@
 
 ## Accepted for publication
 
+* L. Stefanello, S. Trappeniers. [On the connection between Hopf-Galois structures and skew braces](https://arxiv.org/abs/2206.07610). _Bull. London Math.  Soc._
 * C. Dietzel, P. Menchón, L. Vendramin. [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955). _Math. Comp._ [code](https://zenodo.org/badge/latestdoi/417288153).
 * E. Jespers, A. Van Antwerpen, L. Vendramin. [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572). _Commun. Contemp. Math._
