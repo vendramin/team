@@ -7,6 +7,7 @@
 ## 2023
 
 * [Groups, rings and the Yang-Baxter equation](http://www.ilariacolazzo.info/gryb2023/), Blankenberge, Belgium. Organizers: I. Colazzo, A. Van Antwerpen, L. Vendramin. 
+* [Mathematical seminar for Zelmanov's honorary doctorate at VUB](https://leandrovendramin.org/zelmanov/), Organizers: A. Dooms, L. Vendramin. 
 * [Overwolfach mini-workshop (2309a): Skew Braces and the Yang–Baxter Equation](https://www.mfo.de/occasion/2309a/www_view), Oberwolfach, Germany. Organizers: T. Brzezinski, I. Colazzo, A. Doikou, L. Vendramin.  
 
 ## 2022
