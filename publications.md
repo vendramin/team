@@ -7,28 +7,29 @@
 * S. Trappeniers. [On two-sided skew braces](https://arxiv.org/abs/2208.04772).
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen, C. Verwimp. [Finite idempotent set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2212.07361).
 * T. Letourmy, L. Vendramin. [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414). 
-* I. Heckenberger, L. Vendramin. [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115).
 * V. Lebed, S. Ramírez, L. Vendramin. [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041).
 * W. Rump, L. Vendramin. [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001).
 * G. Janssens, E. Jespers, O. Schnabel. [Units of twisted group rings and their correlations to classical group rings](https://arxiv.org/abs/2203.17220).
 
 ## Accepted for publication
 
+* I. Heckenberger, L. Vendramin. [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115). _Bull. Belg. Math. Soc. Simon Stevin._
 * L. Stefanello, S. Trappeniers. [On the connection between Hopf-Galois structures and skew braces](https://arxiv.org/abs/2206.07610). _Bull. London Math.  Soc._
-* C. Dietzel, P. Menchón, L. Vendramin. [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955). _Math. Comp._ [code](https://zenodo.org/badge/latestdoi/417288153).
 * E. Jespers, A. Van Antwerpen, L. Vendramin. [Nilpotency of skew braces and multipermutation solutions of the
-  Yang-Baxter equation](http://arxiv.org/abs/2205.01572). _Commun. Contemp. Math._
-* A. Bächle, G. Janssens, E. Jespers, A. Kiefer, D. Temmerman. [Abelianization and fixed point properties of units in integral group rings](https://arxiv.org/abs/1811.12184). _Math. Nachr._
+  Yang-Baxter equation](http://arxiv.org/abs/2205.01572). _Commun. Contemp. Math._ 
 
 ## Published
 
 ### 2023
 
+* C. Dietzel, P. Menchón, L. Vendramin. [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955). _Math. Comp. 92 (2023), no. 341, 1363–1381._ [code](https://zenodo.org/badge/latestdoi/417288153).
+* A. Bächle, G. Janssens, E. Jespers, A. Kiefer, D. Temmerman. [Abelianization and fixed point properties of units in integral group rings](https://arxiv.org/abs/1811.12184). _Math. Nachr. 296 (2023), no. 1, 8–56._
 * L. Stefanello, S. Trappeniers. [On bi-skew braces and brace blocks](https://arxiv.org/abs/2205.15073). _J. Pure Appl. Algebra 227 (2023), no. 5, Paper No. 107295_.
 * F. Cedó, E. Jespers, Ł. Kubat, A. Van Antwerpen, C. Verwimp. [On various types of nilpotency of the structure monoid and group of a set-theoretic solution of the Yang-Baxter equation](https://arxiv.org/abs/2011.01724). _J. Pure Appl. Algebra 227 (2023), no. 2, Paper No. 107194, 38 pp._
   
 ### 2022
 
+* G. Janssens. [Codimension Growth of Lie algebras with a generalized action](https://arxiv.org/abs/1911.12335). _Proc. Amer. Math. Soc. 150 (2022), no. 7, 2741–2754._
 * F. Cedó, E. Jespers, J. Okniński. [Primitive set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2003.01983). _Commun. Contemp. Math. 24 (2022), no. 9, Paper No. 2150105, 10 pp_. 
 * A. Bächle, G. Janssens, E. Jespers, A. Kiefer, D. Temmerman. [A dichotomy for integral group rings via higher modular groups as amalgamated products](https://arxiv.org/abs/1811.12226). _J. Algebra 604 (2022), 185–223_. 
 * I. Colazzo, E. Jespers, A. Van Antwerpen, C. Verwimp. [Left non-degenerate set-theoretic solutions of the Yang-Baxter equation and semitrusses](https://www.sciencedirect.com/science/article/pii/S0021869322003520?via%3Dihub), _J. Algebra 610 (2022), 409-462_.
