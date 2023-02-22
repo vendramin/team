@@ -6,6 +6,7 @@
 ### Postdocs
 
 * [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite?pli=1).
+* [Geoffrey Janssens](https://geoffreyjanssens.github.io/).
 * [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/).
 * [Arne Van Antwerpen](https://vanantwerpen.github.io/).
 
