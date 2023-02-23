@@ -2,9 +2,10 @@
 
 ### 2023
 
+* Édouard Feingesicht (Caen, France), 13/2-17-2. 
+* Raúl Sastriques (Valencia, Spain), 9/1-6/2.
 * Ilaria Colazzo (Exeter, UK), 14/1-22/1. 
 * Andrew Darlington (Exeter, UK), 14/1-22/1. 
-* Raúl Sastriques (Valencia, Spain), 9/1-6/2.
 
 ### 2022
 
