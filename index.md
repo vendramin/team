@@ -46,4 +46,11 @@ Click [here](visitors.md) for a detailed list of long and short term visitors.
 
 ## Join us
 
-Click [here](joinus.md) for information about PhD/postdoctoral fellowships. 
+Are you interested in working with us? 
+
+* Are you looking for a PhD fellowships?  
+* Are you looking for a postdoctoral fellowship? 
+* Do you want to do your Master with us?
+* Are you looking for a topic for your bachelor thesis?  
+
+If so, click [here](joinus.md)! 
