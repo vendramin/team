@@ -10,3 +10,11 @@ Here you will find possible funding schemes:
 ### Do you want to do your __PhD__ at VUB?  
 
 Consider an [FWO PhD Fellowship](https://www.fwo.be/en/fellowships-funding/phd-fellowships/). 
+
+### Wanna be a master student? 
+
+[Contact us!](mailto:Leandro.Vendramin@vub.be)
+
+### Are you looking for a bachelor thesis topic? 
+
+If so, click [here](bachelor.md). 
