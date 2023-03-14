@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* M. Castelli, S. Trappeniers. [Studying solutions of the Yang-Baxter equation through skew braces, with an application to indecomposable involutive solutions with abelian permutation group](https://arxiv.org/abs/2303.00581).
 * C. Dietzel, R. Sastriques. [Indecomposable set-theoretical solutions to the Yang-Baxter equation on a set of size pq](https://arxiv.org/abs/2302.04636).
 * T. Letourmy, L. Vendramin. [Schur covers of skew braces](https://arxiv.org/abs/2302.03970).
 * S. Trappeniers. [On two-sided skew braces](https://arxiv.org/abs/2208.04772).
