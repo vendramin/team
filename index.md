@@ -1,6 +1,6 @@
 ## Members
 
-* Eric Jespers.
+* [Eric Jespers](https://ericjespers.github.io).
 * [Leandro Vendramin](https://leandrovendramin.org/).
 
 ### Postdocs
