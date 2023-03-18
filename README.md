@@ -1,3 +1,3 @@
 ## README
 
-The webpage of my research team. 
+The webpage of the VUB Algebra Research Team. 
