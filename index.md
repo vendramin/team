@@ -53,4 +53,4 @@ Are you interested in working with us?
 * Do you want to do your Master with us?
 * Are you looking for a topic for your bachelor thesis?  
 
-If so, click [here](joinus.md)! 
+If so, click [here](joinus.md)!
