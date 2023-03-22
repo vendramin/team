@@ -239,6 +239,13 @@ experimental computer laboratory. We will study several related algebraic
 structures and implement different functions to play with specific properties of solutions.  
 * Lennart Oorts 3/2023
 
+#### Prime number generators and the FRACTRAN programming language 
+
+FRACTRAN is a Turing-complete programming language invented by the mathematician John Conway. 
+A FRACTRAN program is an ordered list of positive rational numbers and an initial positive integer. 
+In this fantastic language, Conway learned how to write an astonishing prime number generator. 
+Surprisingly, this FRACTRAN program is just a list of 14 rational numbers!  
+
 ---
 
 #### Constraint programming techniques in discrete mathematics. 
