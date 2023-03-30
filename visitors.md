@@ -9,6 +9,7 @@
 
 ### 2022
 
+* Alfilgen Sebandal (MSU-IIT, Philippines), 14/11-16/11.
 * Ilaria Colazzo (Exeter, UK), 16/5-21/5.
 * Lorenzo Stefanello (Pisa, Italy), 16/5-21/5.
 * Dora Puljic (Edinburgh, UK), 16/5-21/5.
