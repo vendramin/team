@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* K. Piterman, L. Vendramin. [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023).  
 * C. Dietzel. [Decomposition and structure theorems for Garside-like groups with modular lattice structure](https://arxiv.org/abs/2304.04114).
 * M. Castelli, S. Trappeniers. [Studying solutions of the Yang-Baxter equation through skew braces, with an application to indecomposable involutive solutions with abelian permutation group](https://arxiv.org/abs/2303.00581).
 * C. Dietzel, R. Sastriques. [Indecomposable set-theoretical solutions to the Yang-Baxter equation on a set of size pq](https://arxiv.org/abs/2302.04636).
