@@ -7,7 +7,6 @@
 * M. Castelli, S. Trappeniers. [Studying solutions of the Yang-Baxter equation through skew braces, with an application to indecomposable involutive solutions with abelian permutation group](https://arxiv.org/abs/2303.00581).
 * C. Dietzel, R. Sastriques. [Indecomposable set-theoretical solutions to the Yang-Baxter equation on a set of size pq](https://arxiv.org/abs/2302.04636).
 * T. Letourmy, L. Vendramin. [Schur covers of skew braces](https://arxiv.org/abs/2302.03970).
-* S. Trappeniers. [On two-sided skew braces](https://arxiv.org/abs/2208.04772).
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen, C. Verwimp. [Finite idempotent set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2212.07361).
 * T. Letourmy, L. Vendramin. [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414). 
 * V. Lebed, S. Ramírez, L. Vendramin. [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041).
@@ -16,6 +15,7 @@
 
 ## Accepted for publication
 
+* S. Trappeniers. [On two-sided skew braces](https://arxiv.org/abs/2208.04772). _J. Algebra._
 * I. Heckenberger, L. Vendramin. [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115). _Bull. Belg. Math. Soc. Simon Stevin._
 * L. Stefanello, S. Trappeniers. [On the connection between Hopf-Galois structures and skew braces](https://arxiv.org/abs/2206.07610). _Bull. London Math.  Soc._
 * E. Jespers, A. Van Antwerpen, L. Vendramin. [Nilpotency of skew braces and multipermutation solutions of the
