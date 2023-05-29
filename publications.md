@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen. [Structure algebras of finite set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2305.06023).
 * K. Piterman, L. Vendramin. [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023).  
 * C. Dietzel. [Decomposition and structure theorems for Garside-like groups with modular lattice structure](https://arxiv.org/abs/2304.04114).
 * M. Castelli, S. Trappeniers. [Studying solutions of the Yang-Baxter equation through skew braces, with an application to indecomposable involutive solutions with abelian permutation group](https://arxiv.org/abs/2303.00581).
@@ -15,9 +16,8 @@
 
 ## Accepted for publication
 
-* S. Trappeniers. [On two-sided skew braces](https://arxiv.org/abs/2208.04772). _J. Algebra._
 * I. Heckenberger, L. Vendramin. [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115). _Bull. Belg. Math. Soc. Simon Stevin._
-* L. Stefanello, S. Trappeniers. [On the connection between Hopf-Galois structures and skew braces](https://arxiv.org/abs/2206.07610). _Bull. London Math.  Soc._
+* L. Stefanello, S. Trappeniers. [On the connection between Hopf-Galois structures and skew braces](https://arxiv.org/abs/2206.07610). _Bull. London Math. Soc._
 * E. Jespers, A. Van Antwerpen, L. Vendramin. [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572). _Commun. Contemp. Math._ 
 
@@ -25,6 +25,7 @@
 
 ### 2023
 
+* S. Trappeniers. [On two-sided skew braces](https://arxiv.org/abs/2208.04772). _J. Algebra 631 (2023), 267-286._
 * C. Dietzel, P. Menchón, L. Vendramin. [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955). _Math. Comp. 92 (2023), no. 341, 1363–1381._ [code](https://zenodo.org/badge/latestdoi/417288153).
 * A. Bächle, G. Janssens, E. Jespers, A. Kiefer, D. Temmerman. [Abelianization and fixed point properties of units in integral group rings](https://arxiv.org/abs/1811.12184). _Math. Nachr. 296 (2023), no. 1, 8–56._
 * L. Stefanello, S. Trappeniers. [On bi-skew braces and brace blocks](https://arxiv.org/abs/2205.15073). _J. Pure Appl. Algebra 227 (2023), no. 5, Paper No. 107295_.
