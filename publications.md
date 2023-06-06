@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* I. Heckenberger, E. Meir, L. Vendramin. [Simple Yetter-Drinfeld modules over groups with prime dimension and a finite-dimensional Nichols algebra](https://arxiv.org/abs/2306.02989).
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen. [Structure algebras of finite set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2305.06023).
 * K. Piterman, L. Vendramin. [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023).  
 * C. Dietzel. [Decomposition and structure theorems for Garside-like groups with modular lattice structure](https://arxiv.org/abs/2304.04114).
