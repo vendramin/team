@@ -11,12 +11,12 @@
 * M. Castelli, S. Trappeniers. [Studying solutions of the Yang-Baxter equation through skew braces, with an application to indecomposable involutive solutions with abelian permutation group](https://arxiv.org/abs/2303.00581).
 * T. Letourmy, L. Vendramin. [Schur covers of skew braces](https://arxiv.org/abs/2302.03970).
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen, C. Verwimp. [Finite idempotent set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2212.07361).
-* T. Letourmy, L. Vendramin. [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414). 
 * W. Rump, L. Vendramin. [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001).
 * G. Janssens, E. Jespers, O. Schnabel. [Units of twisted group rings and their correlations to classical group rings](https://arxiv.org/abs/2203.17220).
 
 ## Accepted for publication
 
+* T. Letourmy, L. Vendramin. [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414). _Bull. London Math. Soc._
 * V. Lebed, S. Ramírez, L. Vendramin. [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041). _Rev. Mat. Iberoam._
 * I. Heckenberger, L. Vendramin. [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115). _Bull. Belg. Math. Soc. Simon Stevin._
 * L. Stefanello, S. Trappeniers. [On the connection between Hopf-Galois structures and skew braces](https://arxiv.org/abs/2206.07610). _Bull. London Math. Soc._
