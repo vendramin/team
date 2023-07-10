@@ -10,11 +10,11 @@
 * [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/).
 * [Arne Van Antwerpen](https://vanantwerpen.github.io/).
 
-### PhD students
+### Ph.D. students
 
 #### Current
 
-* (2022) Silvia Properzi. Supervisors: A. Van Antwerpen and L. Vendramin. 
+* (2022) [Silvia Properzi](https://properzi.github.io). Supervisors: A. Van Antwerpen and L. Vendramin. 
 * (2021) [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home). Supervisors: L. Vendramin and J. Vercruysse. 
 * (2021) [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage). Supervisors: A. Van Antwerpen and L. Vendramin.
 * (2019) Santiago Ramírez. Supervisor: L. Vendramin.
@@ -42,15 +42,15 @@ Click [here](grants.md) to see our grants.
 
 ## Visitors
 
-Click [here](visitors.md) for a detailed list of long and short term visitors. 
+Click [here](visitors.md) for a detailed list of long and short-term visitors. 
 
 ## Join us
 
 Are you interested in working with us? 
 
-* Are you looking for a PhD fellowships?  
+* Are you looking for Ph.D. fellowships?  
 * Are you looking for a postdoctoral fellowship? 
-* Do you want to do your Master with us?
+* Do you want to do your Master's with us?
 * Are you looking for a topic for your bachelor thesis?  
 
 If so, click [here](joinus.md)!
