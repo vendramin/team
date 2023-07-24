@@ -2,10 +2,12 @@
 
 ## 2024
 
-* [Skew braces, braids and the Yang-Baxter equation, Banff, Canada](https://www.birs.ca/events/2024/5-day-workshops/24w5201). Organizers: I. Colazzo, J. Plavnik, E. Rowell, L. Vendramin.
+* [Skew braces, braids and the Yang-Baxter equation](https://www.birs.ca/events/2024/5-day-workshops/24w5201). Banff, Canada. Organizers: I. Colazzo, J. Plavnik, E. Rowell, L. Vendramin.
+* [Overwolfach mini-workshop (2405a): Skew Braces and the Yang–Baxter Equation](https://www.mfo.de/occasion/2405b/www_view), Oberwolfach, Germany. Organizers: G. Carnovale, I. Heckenberger, L. Vendramin.
 
 ## 2023
 
+* [A meeting for Eric Jespers' retirement](http://www.ilariacolazzo.info/eric/), Brussels, Blegium. Organizers: I. Colazzo, A. Van Antwerpen, L. Vendramin. 
 * [Groups, rings and the Yang-Baxter equation](http://www.ilariacolazzo.info/gryb2023/), Blankenberge, Belgium. Organizers: I. Colazzo, A. Van Antwerpen, L. Vendramin. 
 * [Mathematical seminar for Zelmanov's honorary doctorate at VUB](https://leandrovendramin.org/zelmanov/), Organizers: A. Dooms, L. Vendramin. 
 * [Overwolfach mini-workshop (2309a): Skew Braces and the Yang–Baxter Equation](https://www.mfo.de/occasion/2309a/www_view), Oberwolfach, Germany. Organizers: T. Brzezinski, I. Colazzo, A. Doikou, L. Vendramin.  
