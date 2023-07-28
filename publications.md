@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* G. Janssens, L. Margolis. [On integral decomposition of unipotent elements in integral group rings](https://arxiv.org/abs/2307.14820).
 * N. Mayorga Uruburu, A. Pacetti, L. Vendramin. [On computing finite index subgroups of PSL(2,Z)](https://arxiv.org/abs/2307.01826). 
 * S. Properzi, A. Van Antwerpen. [A common divisor graph for skew braces](https://arxiv.org/abs/2306.12415).
 * I. Heckenberger, E. Meir, L. Vendramin. [Simple Yetter-Drinfeld modules over groups with prime dimension and a finite-dimensional Nichols algebra](https://arxiv.org/abs/2306.02989).
@@ -10,12 +11,12 @@
 * C. Dietzel. [Decomposition and structure theorems for Garside-like groups with modular lattice structure](https://arxiv.org/abs/2304.04114).
 * M. Castelli, S. Trappeniers. [Studying solutions of the Yang-Baxter equation through skew braces, with an application to indecomposable involutive solutions with abelian permutation group](https://arxiv.org/abs/2303.00581).
 * T. Letourmy, L. Vendramin. [Schur covers of skew braces](https://arxiv.org/abs/2302.03970).
-* I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen, C. Verwimp. [Finite idempotent set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2212.07361).
 * W. Rump, L. Vendramin. [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001).
 * G. Janssens, E. Jespers, O. Schnabel. [Units of twisted group rings and their correlations to classical group rings](https://arxiv.org/abs/2203.17220).
 
 ## Accepted for publication
 
+* I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen, C. Verwimp. [Finite idempotent set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2212.07361). _Int. Math. Res. Not. IMRN._
 * T. Letourmy, L. Vendramin. [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414). _Bull. London Math. Soc._
 * V. Lebed, S. Ramírez, L. Vendramin. [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041). _Rev. Mat. Iberoam._
 * I. Heckenberger, L. Vendramin. [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115). _Bull. Belg. Math. Soc. Simon Stevin._
