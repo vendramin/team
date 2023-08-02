@@ -3,7 +3,7 @@
 ## 2024
 
 * [Skew braces, braids and the Yang-Baxter equation](https://www.birs.ca/events/2024/5-day-workshops/24w5201). Banff, Canada. Organizers: I. Colazzo, J. Plavnik, E. Rowell, L. Vendramin.
-* [Overwolfach mini-workshop (2405a): Skew Braces and the Yang–Baxter Equation](https://www.mfo.de/occasion/2405b/www_view), Oberwolfach, Germany. Organizers: G. Carnovale, I. Heckenberger, L. Vendramin.
+* [Overwolfach mini-workshop (2405a): Bridging number theory and Nichols Algebras via deformations](https://www.mfo.de/occasion/2405b/www_view), Oberwolfach, Germany. Organizers: G. Carnovale, I. Heckenberger, L. Vendramin.
 
 ## 2023
 
