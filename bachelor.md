@@ -31,7 +31,7 @@ Do you like algebra? Do you enjoy group theory? Chermak—Delgado lattice is wha
 The definition does not require advanced group theory. 
 The beauty of this is that you will try to prove several 
 open questions after doing some exercises and experiments.  
-* Lukas Simons 2/2023 
+* Lukas Simons, 2/2023 
 
 ---
 
@@ -48,7 +48,8 @@ there are so many applications that one cannot even count them!
 
 What is the probability that two randomly chosen elements of a finite group commute? A classic result states that this commuting probability 
 is at most $5/8$. A nice theorem of Dixon states that, for finite non-abelian simple groups, the commuting probability is at most $1/12$.
-
+* Mattias Vancauteren, 6/2023
+  
 ---
 
 #### Schur—Zassenhaus theorem. 
@@ -79,6 +80,7 @@ Yes, and a famous example is the one that Promislow found around 1988.
 Remarkably, only a few groups of this kind are known. 
 The plan is to present examples of torsion-free groups 
 without the UPP and show how this notion fits in geometric group theory.     
+* Luca Descheemaeker, 6/2023
 
 ## Combinatorics
 
@@ -237,7 +239,9 @@ but attending a lecture by Emmy Noether converted him to mathematics.)
 This project will explore specific solutions to the famous Yang—Baxter equation in a natural 
 experimental computer laboratory. We will study several related algebraic 
 structures and implement different functions to play with specific properties of solutions.  
-* Lennart Oorts 3/2023
+* Lennart Oorts, 3/2023
+
+---
 
 #### Prime number generators and the FRACTRAN programming language 
 
