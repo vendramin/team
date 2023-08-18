@@ -21,13 +21,13 @@
 * V. Lebed, S. Ramírez, L. Vendramin. [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041). _Rev. Mat. Iberoam._
 * I. Heckenberger, L. Vendramin. [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115). _Bull. Belg. Math. Soc. Simon Stevin._
 * L. Stefanello, S. Trappeniers. [On the connection between Hopf-Galois structures and skew braces](https://arxiv.org/abs/2206.07610). _Bull. London Math. Soc._
-* E. Jespers, A. Van Antwerpen, L. Vendramin. [Nilpotency of skew braces and multipermutation solutions of the
-  Yang-Baxter equation](http://arxiv.org/abs/2205.01572). _Commun. Contemp. Math._ 
 
 ## Published
 
 ### 2023
 
+* E. Jespers, A. Van Antwerpen, L. Vendramin. [Nilpotency of skew braces and multipermutation solutions of the
+  Yang-Baxter equation](http://arxiv.org/abs/2205.01572). _Commun. Contemp. Math. 25 (2023), no. 09, Paper No. 2250064._ 
 * S. Trappeniers. [On two-sided skew braces](https://arxiv.org/abs/2208.04772). _J. Algebra 631 (2023), 267-286._
 * C. Dietzel, P. Menchón, L. Vendramin. [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955). _Math. Comp. 92 (2023), no. 341, 1363–1381._ [code](https://zenodo.org/badge/latestdoi/417288153).
 * A. Bächle, G. Janssens, E. Jespers, A. Kiefer, D. Temmerman. [Abelianization and fixed point properties of units in integral group rings](https://arxiv.org/abs/1811.12184). _Math. Nachr. 296 (2023), no. 1, 8–56._
