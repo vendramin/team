@@ -27,6 +27,7 @@
 
 ### 2023
 
+* T. Brzezinski, I. Colazzo, A. Doikou, L. Vendramin. [Mini-workshop: Skew braces and the Yang-Baxter equation](https://publications.mfo.de/handle/mfo/4027). Oberwolfach Rep. 20 (2023), no. 1, 537-563.
 * E. Jespers, A. Van Antwerpen, L. Vendramin. [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572). _Commun. Contemp. Math. 25 (2023), no. 09, Paper No. 2250064._ 
 * S. Trappeniers. [On two-sided skew braces](https://arxiv.org/abs/2208.04772). _J. Algebra 631 (2023), 267-286._
