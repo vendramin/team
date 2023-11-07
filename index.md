@@ -14,7 +14,8 @@
 
 #### Current
 
-* (2022) [Silvia Properzi](https://properzi.github.io). Supervisors: A. Van Antwerpen and L. Vendramin. 
+* (2023) Davide Ferri. Supervisors: L. Vendramin and A. Ardizzoni.
+* (2022) [Silvia Properzi](https://properzi.github.io). Supervisor: L. Vendramin. 
 * (2021) [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home). Supervisors: L. Vendramin and J. Vercruysse. 
 * (2021) [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage). Supervisors: A. Van Antwerpen and L. Vendramin.
 * (2019) Santiago Ramírez. Supervisor: L. Vendramin.
