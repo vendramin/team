@@ -2,6 +2,9 @@
 
 ### 2023
 
+* Lukasz Kubat (Warsaw, Poland), 8/11-18/11.
+* Victoria Lebed (Caen, France), 12/11-15/11.
+* Ángel del Río (Murcia, Spain), 12/11-17-11.
 * Ilaria Colazzo (Exeter, UK), 9/11-17/12. Supported by FWO V512223N. 
 * Andrew Darlington (Exter, UK), 13/11-17/11.
 * Efim Zelmanov (San Diego, USA), 1/6-3/6.
