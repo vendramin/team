@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* L. Vendramin. [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). 
 * G. Janssens, L. Margolis. [On integral decomposition of unipotent elements in integral group rings](https://arxiv.org/abs/2307.14820).
 * N. Mayorga Uruburu, A. Pacetti, L. Vendramin. [On computing finite index subgroups of PSL(2,Z)](https://arxiv.org/abs/2307.01826). 
 * S. Properzi, A. Van Antwerpen. [A common divisor graph for skew braces](https://arxiv.org/abs/2306.12415).
