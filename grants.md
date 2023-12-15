@@ -2,6 +2,7 @@
 
 ### FWO
 
+* 2024-2027. FWO Senior Grant (G004124N). Skew braces and applications. PI: Leandro Vendramin.  
 * 2023-2027. FWO Predoc Grant for Silvia Properzi (FWOTM1206): Skew braces, quivers, and applications to the Yang-Baxter equation. 
 * 2023-2028. FWO Postdoc Grant for Arne Van Antwerpen (FWOTM1174): The reciprocity between solutions of the Yang-Baxter equation, skew braces and Lie algebras, with attention to computational applications.
 * 2022-2027. FWO Postdoc Grant for Kevin Piterman (FWOTM1118): p-local properties of Skew Braces and solutions to the Yang-Baxter equations. 
