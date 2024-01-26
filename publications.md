@@ -2,7 +2,6 @@
 
 ## Preprints
 
-* L. Vendramin. [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). 
 * G. Janssens, L. Margolis. [On integral decomposition of unipotent elements in integral group rings](https://arxiv.org/abs/2307.14820).
 * N. Mayorga Uruburu, A. Pacetti, L. Vendramin. [On computing finite index subgroups of PSL(2,Z)](https://arxiv.org/abs/2307.01826). 
 * S. Properzi, A. Van Antwerpen. [A common divisor graph for skew braces](https://arxiv.org/abs/2306.12415).
@@ -16,6 +15,7 @@
 
 ## Accepted for publication
 
+* L. Vendramin. [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL. Trends Math_.
 * T. Letourmy, L. Vendramin. [Schur covers of skew braces](https://arxiv.org/abs/2302.03970) _J. Algebra_.
 * L. Vendramin. [What is... a skew brace?](https://www.ams.org/notices/202401/rnoti-p65.pdf) _Notices Amer. Math. Soc._
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen, C. Verwimp. [Finite idempotent set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2212.07361). _Int. Math. Res. Not. IMRN._
