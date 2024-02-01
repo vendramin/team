@@ -3,7 +3,6 @@
 ## Preprints
 
 * G. Janssens, L. Margolis. [On integral decomposition of unipotent elements in integral group rings](https://arxiv.org/abs/2307.14820).
-* N. Mayorga Uruburu, A. Pacetti, L. Vendramin. [On computing finite index subgroups of PSL(2,Z)](https://arxiv.org/abs/2307.01826). 
 * S. Properzi, A. Van Antwerpen. [A common divisor graph for skew braces](https://arxiv.org/abs/2306.12415).
 * I. Heckenberger, E. Meir, L. Vendramin. [Simple Yetter-Drinfeld modules over groups with prime dimension and a finite-dimensional Nichols algebra](https://arxiv.org/abs/2306.02989).
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen. [Structure algebras of finite set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2305.06023).
@@ -15,6 +14,7 @@
 
 ## Accepted for publication
 
+* N. Mayorga Uruburu, A. Pacetti, L. Vendramin. [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826). _J. Algebra Appl._
 * L. Vendramin. [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL. Trends Math_.
 * T. Letourmy, L. Vendramin. [Schur covers of skew braces](https://arxiv.org/abs/2302.03970) _J. Algebra_.
 * L. Vendramin. [What is... a skew brace?](https://www.ams.org/notices/202401/rnoti-p65.pdf) _Notices Amer. Math. Soc._
