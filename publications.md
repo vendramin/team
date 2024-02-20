@@ -19,19 +19,19 @@
 * L. Vendramin. [What is... a skew brace?](https://www.ams.org/notices/202401/rnoti-p65.pdf) _Notices Amer. Math. Soc._
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen, C. Verwimp. [Finite idempotent set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2212.07361). _Int. Math. Res. Not. IMRN._
 * V. Lebed, S. Ramírez, L. Vendramin. [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041). _Rev. Mat. Iberoam._
-* I. Heckenberger, L. Vendramin. [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115). _Bull. Belg. Math. Soc. Simon Stevin._
 
 ## Published
 
 ### 2024 
 
-* [Schur covers of skew braces](https://arxiv.org/abs/2302.03970) (with T. Letourmy) _J. Algebra 644 (2024), 609-654._
+* T. Letourmy, L. Vendramin. [Schur covers of skew braces](https://arxiv.org/abs/2302.03970) (with T. Letourmy) _J. Algebra 644 (2024), 609-654._
 
 ### 2023
 
-* T. Letourmy, L. Vendramin. [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414). Bull. Lond. Math. Soc. 55 (2023), no. 6, 2891–2906.
-* L. Stefanello, S. Trappeniers. [On the connection between Hopf-Galois structures and skew braces](https://arxiv.org/abs/2206.07610). 
-* T. Brzezinski, I. Colazzo, A. Doikou, L. Vendramin. [Mini-workshop: Skew braces and the Yang-Baxter equation](https://publications.mfo.de/handle/mfo/4027). Oberwolfach Rep. 20 (2023), no. 1, 537-563.
+* I. Heckenberger, L. Vendramin. [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115). _Bull. Belg. Math. Soc. Simon Stevin 30 (2023), no. 5, 577–600_.
+* T. Letourmy, L. Vendramin. [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414). _Bull. Lond. Math. Soc. 55 (2023), no. 6, 2891–2906_.
+* L. Stefanello, S. Trappeniers. [On the connection between Hopf-Galois structures and skew braces](https://arxiv.org/abs/2206.07610). _Bull. Lond. Math. Soc. 55 (2023), no. 4, 1726–1748._
+* T. Brzezinski, I. Colazzo, A. Doikou, L. Vendramin. [Mini-workshop: Skew braces and the Yang-Baxter equation](https://publications.mfo.de/handle/mfo/4027). _Oberwolfach Rep. 20 (2023), no. 1, 537-563_.
 * E. Jespers, A. Van Antwerpen, L. Vendramin. [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572). _Commun. Contemp. Math. 25 (2023), no. 09, Paper No. 2250064._ 
 * S. Trappeniers. [On two-sided skew braces](https://arxiv.org/abs/2208.04772). _J. Algebra 631 (2023), 267-286._
