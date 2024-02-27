@@ -17,4 +17,4 @@ Consider an [FWO PhD Fellowship](https://www.fwo.be/en/fellowships-funding/phd-f
 
 ### Are you looking for a bachelor thesis topic? 
 
-If so, click [here](bachelor.md). 
+If so, click [here](bachelor.md). Click [here](past.md) to see the list of past bachelor theses. 
