@@ -7,7 +7,7 @@
 
 ## 2023
 
-* [A meeting for Eric Jespers' retirement](http://www.ilariacolazzo.info/eric/), Brussels, Blegium. Organizers: I. Colazzo, A. Van Antwerpen, L. Vendramin. 
+* [A meeting for Eric Jespers' retirement](http://www.ilariacolazzo.info/eric/), Brussels, Belgium. Organizers: I. Colazzo, A. Van Antwerpen, L. Vendramin. 
 * [The interplay between skew braces and Hopf-Galois theory](https://interplaysbhg.github.io), UK. Organizers: I. Colazzo, P. Truman, L. Vendramin. 
 * [Groups, rings and the Yang-Baxter equation](http://www.ilariacolazzo.info/gryb2023/), Blankenberge, Belgium. Organizers: I. Colazzo, A. Van Antwerpen, L. Vendramin. 
 * [Mathematical seminar for Zelmanov's honorary doctorate at VUB](https://leandrovendramin.org/zelmanov/), Organizers: A. Dooms, L. Vendramin. 
