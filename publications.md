@@ -17,12 +17,12 @@
 * N. Mayorga Uruburu, A. Pacetti, L. Vendramin. [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826). _J. Algebra Appl._
 * L. Vendramin. [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL. Trends Math_.
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen, C. Verwimp. [Finite idempotent set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2212.07361). _Int. Math. Res. Not. IMRN._
-* V. Lebed, S. Ramírez, L. Vendramin. [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041). _Rev. Mat. Iberoam._
 
 ## Published
 
 ### 2024 
 
+* V. Lebed, S. Ramírez, L. Vendramin. [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041). _Rev. Mat. Iberoam. 40 (2024), no. 2, pp. 623–635._
 * L. Vendramin. [What is... a skew brace?](https://www.ams.org/notices/202401/rnoti-p65.pdf) _Notices Amer. Math. Soc. 71 (2024), no. 1, 65-67._
 * T. Letourmy, L. Vendramin. [Schur covers of skew braces](https://arxiv.org/abs/2302.03970) (with T. Letourmy) _J. Algebra 644 (2024), 609-654._
 
