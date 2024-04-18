@@ -1,5 +1,9 @@
 ## Visitors
 
+### 2024 
+
+* Manoj Yadav (Allahabad, India), 14/3-28/3. 
+
 ### 2023
 
 * Lukasz Kubat (Warsaw, Poland), 8/11-18/11.
