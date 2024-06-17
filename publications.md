@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* S. Trappeniers. [A Lazard-type correspondence and applications to post-Lie rings and skew braces](https://arxiv.org/abs/2406.02475).
 * C. Dietzel, S. Properzi, S. Trappeniers. [Indecomposable set-theoretical solutions to the Yang-Baxter equation of size $p^2$](https://arxiv.org/abs/2403.18653).
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen. [Simple solutions of the Yang-Baxter equation](https://arxiv.org/abs/2312.09687).
 * G. Janssens, L. Margolis. [On integral decomposition of unipotent elements in integral group rings](https://arxiv.org/abs/2307.14820).
