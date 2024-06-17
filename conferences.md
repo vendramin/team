@@ -1,5 +1,9 @@
 ## Conferences organized 
 
+## 2025 
+
+* [The Yang-Baxter equation and all that](https://sites.google.com/impan.pl/ybe/home-page). Bedlewo, Poland. Organizers: I. Colazzo, T. Brzezinski, L. Vendramin.  
+
 ## 2024
 
 * [Skew braces, braids and the Yang-Baxter equation](https://www.birs.ca/events/2024/5-day-workshops/24w5201). Banff, Canada. Organizers: I. Colazzo, J. Plavnik, E. Rowell, L. Vendramin.
