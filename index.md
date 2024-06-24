@@ -14,16 +14,17 @@
 
 #### Current
 
-* (2023) Davide Ferri. Supervisors: L. Vendramin and A. Ardizzoni.
-* (2022) [Silvia Properzi](https://properzi.github.io). Supervisor: L. Vendramin. 
-* (2021) [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home). Supervisors: L. Vendramin and J. Vercruysse. 
-* (2021) [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage). Supervisors: A. Van Antwerpen and L. Vendramin.
-* (2019) Santiago Ramírez. Supervisor: L. Vendramin.
-* (2018) Emiliano Acri. Supervisor: L. Vendramin. 
+* Charlotte Roelandts. Supervisor: L. Vendramin
+* Davide Ferri. Supervisors: L. Vendramin and A. Ardizzoni.
+* [Silvia Properzi](https://properzi.github.io). Supervisor: L. Vendramin. 
+* [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home). Supervisors: L. Vendramin and J. Vercruysse. 
+* [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage). Supervisors: A. Van Antwerpen and L. Vendramin.
+* Santiago Ramírez. Supervisor: L. Vendramin.
+* Emiliano Acri. Supervisor: L. Vendramin. 
 
 #### Former
 
-* (2018-2022) Charlotte Verwimp. Supervisor: Eric Jespers, [thesis](https://leandrovendramin.org/files/verwimp.pdf).
+* (2022) Charlotte Verwimp. Supervisor: Eric Jespers, [thesis](https://leandrovendramin.org/files/verwimp.pdf).
 
 ## Publications
 
