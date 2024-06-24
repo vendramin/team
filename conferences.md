@@ -7,6 +7,7 @@
 
 ## 2024
 
+* [The interplay between skew braces and Hopf-Galois theory](https://interplaysbhg.github.io). Keele, UK. Organizers: I. Colazzo, P. Truman, L. Vendramin. 
 * [Skew braces, braids and the Yang-Baxter equation](https://www.birs.ca/events/2024/5-day-workshops/24w5201). Banff, Canada. Organizers: I. Colazzo, J. Plavnik, E. Rowell, L. Vendramin.
 * [Overwolfach mini-workshop (2405a): Bridging number theory and Nichols Algebras via deformations](https://www.mfo.de/occasion/2405b/www_view), Oberwolfach, Germany. Organizers: G. Carnovale, I. Heckenberger, L. Vendramin.
 
