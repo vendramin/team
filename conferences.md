@@ -3,7 +3,8 @@
 ## 2025 
 
 * [The Yang-Baxter equation and all that](https://sites.google.com/impan.pl/ybe/home-page). Bedlewo, Poland. Organizers: I. Colazzo, T. Brzezinski, L. Vendramin.  
-* [GAP Days in Brussels](). VUB, Brussels, Belgium. Organizers: J. De Beule, P. Cara, L. Vendramin.
+* [Hopf algebras, quantum groups, monoidal categories and related structures](), Brussels, Belgium. Organizers: S. Caenepeel, K. De Commer, P. Saracco, P. Vaz, L. Vendramin, J. Vercruysse.
+* [GAP Days in Brussels](https://www.gapdays.de). VUB, Brussels, Belgium. Organizers: J. De Beule, P. Cara, L. Vendramin.
 
 ## 2024
 
