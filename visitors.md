@@ -2,6 +2,7 @@
 
 ### 2024 
 
+* Andrew Darlington (Exeter, UK), 12/6-14/7.
 * Manoj Yadav (Allahabad, India), 14/3-28/3. 
 
 ### 2023
