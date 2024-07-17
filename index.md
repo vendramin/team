@@ -15,7 +15,7 @@
 #### Current
 
 * Charlotte Roelandts. Supervisor: L. Vendramin
-* Davide Ferri. Supervisors: L. Vendramin and A. Ardizzoni.
+* [Davide Ferri](https://sites.google.com/view/davide-ferri/). Supervisors: L. Vendramin and A. Ardizzoni.
 * [Silvia Properzi](https://properzi.github.io). Supervisor: L. Vendramin. 
 * [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home). Supervisors: L. Vendramin and J. Vercruysse. 
 * [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage). Supervisors: A. Van Antwerpen and L. Vendramin.
