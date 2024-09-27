@@ -2,8 +2,10 @@
 
 ## Preprints
 
+* M. Gran, T. Letourmy, L. Vendramin. [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056).
+* C. Dietzel, E. Feingesicht, S. Properzi. [Indecomposability and irreducibility of monomial representations for set-theoretical solutions to the Yang-Baxter equation](https://arxiv.org/abs/2409.10648).
+* D. Ferri, A. Sciandra. [Matched pairs and Yetter-Drinfeld braces](https://arxiv.org/abs/2406.10009).
 * S. Trappeniers. [A Lazard-type correspondence and applications to post-Lie rings and skew braces](https://arxiv.org/abs/2406.02475).
-* C. Dietzel, S. Properzi, S. Trappeniers. [Indecomposable set-theoretical solutions to the Yang-Baxter equation of size $p^2$](https://arxiv.org/abs/2403.18653).
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen. [Simple solutions of the Yang-Baxter equation](https://arxiv.org/abs/2312.09687).
 * G. Janssens, L. Margolis. [On integral decomposition of unipotent elements in integral group rings](https://arxiv.org/abs/2307.14820).
 * S. Properzi, A. Van Antwerpen. [A common divisor graph for skew braces](https://arxiv.org/abs/2306.12415).
@@ -15,6 +17,7 @@
 
 ## Accepted for publication
 
+* C. Dietzel, S. Properzi, S. Trappeniers. [Indecomposable set-theoretical solutions to the Yang-Baxter equation of size $p^2$](https://arxiv.org/abs/2403.18653). _Comm. Algebra._ 
 * N. Mayorga Uruburu, A. Pacetti, L. Vendramin. [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826). _J. Algebra Appl._
 * L. Vendramin. [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL. Trends Math_.
 
