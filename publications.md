@@ -14,10 +14,10 @@
 * K. Piterman, L. Vendramin. [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023).  
 * C. Dietzel. [Decomposition and structure theorems for Garside-like groups with modular lattice structure](https://arxiv.org/abs/2304.04114).
 * M. Castelli, S. Trappeniers. [Studying solutions of the Yang-Baxter equation through skew braces, with an application to indecomposable involutive solutions with abelian permutation group](https://arxiv.org/abs/2303.00581).
-* G. Janssens, E. Jespers, O. Schnabel. [Units of twisted group rings and their correlations to classical group rings](https://arxiv.org/abs/2203.17220).
 
 ## Accepted for publication
 
+* G. Janssens, E. Jespers, O. Schnabel. [Units of twisted group rings and their correlations to classical group rings](https://arxiv.org/abs/2203.17220). _Adv. Math._
 * C. Dietzel, S. Properzi, S. Trappeniers. [Indecomposable set-theoretical solutions to the Yang-Baxter equation of size $p^2$](https://arxiv.org/abs/2403.18653). _Comm. Algebra._ 
 * N. Mayorga Uruburu, A. Pacetti, L. Vendramin. [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826). _J. Algebra Appl._
 
