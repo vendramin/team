@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* K. Piterman. [Spherical p-group complexes arising from finite groups of Lie type](https://arxiv.org/abs/2403.07489). 
 * D. Ferri. [On dynamical skew braces and skew bracoids](https://arxiv.org/abs/2410.10717).
 * M. Gran, T. Letourmy, L. Vendramin. [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056).
 * C. Dietzel, E. Feingesicht, S. Properzi. [Indecomposability and irreducibility of monomial representations for set-theoretical solutions to the Yang-Baxter equation](https://arxiv.org/abs/2409.10648).
