@@ -13,8 +13,8 @@ Consider an [FWO PhD Fellowship](https://www.fwo.be/en/fellowships-funding/phd-f
 
 ### Wanna be a master student? 
 
-[Contact us!](mailto:Leandro.Vendramin@vub.be)
+If so, click [here](https://leandrovendramin.org/master.html).
 
 ### Are you looking for a bachelor thesis topic? 
 
-If so, click [here](bachelor.md). Click [here](past.md) to see the list of past bachelor theses. 
+If so, click [here](https://leandrovendramin.org/bachelor.html). There you will also find the list of past bachelor theses. 
