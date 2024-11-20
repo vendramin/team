@@ -5,6 +5,7 @@
 
 ### Postdocs
 
+* [Andrew Darlington](). 
 * [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite?pli=1).
 * [Geoffrey Janssens](https://geoffreyjanssens.github.io/).
 * [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/).
@@ -21,7 +22,7 @@
 * [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home). Supervisors: L. Vendramin and J. Vercruysse. 
 * [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage). Supervisors: A. Van Antwerpen and L. Vendramin.
 * Santiago Ramírez. Supervisor: L. Vendramin.
-* Emiliano Acri. Supervisor: L. Vendramin. 
+* [Emiliano Acri](http://mate.dm.uba.ar/~eacri/). Supervisor: L. Vendramin. 
 
 #### Former
 
