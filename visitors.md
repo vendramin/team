@@ -2,6 +2,7 @@
 
 ### 2024 
 
+* Be'eri Greenfeld (Washington, USA), 25/11-5/1/2025. Supported by FWO V507824N. 
 * Andrew Darlington (Exeter, UK), 12/6-14/7.
 * Manoj Yadav (Allahabad, India), 14/3-28/3. 
 
