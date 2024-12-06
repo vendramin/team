@@ -16,7 +16,7 @@
 #### Current
 
 * Yufei Qin. Supervisors: L. Vendramin and G. Zhou. 
-* [Charlotte Roelandts](https://sites.google.com/view/charlotteroelants/home). Supervisors: K. Piterman and L. Vendramin
+* [Charlotte Roelants](https://sites.google.com/view/charlotteroelants/home). Supervisors: K. Piterman and L. Vendramin
 * [Davide Ferri](https://sites.google.com/view/davide-ferri/). Supervisors: A. Ardizzoni and L. Vendramin.
 * [Silvia Properzi](https://properzi.github.io). Supervisor: L. Vendramin. 
 * [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home). Supervisors: L. Vendramin and J. Vercruysse. 
