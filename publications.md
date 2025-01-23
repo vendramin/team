@@ -12,7 +12,6 @@
 * S. Trappeniers. [A Lazard-type correspondence and applications to post-Lie rings and skew braces](https://arxiv.org/abs/2406.02475).
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen. [Simple solutions of the Yang-Baxter equation](https://arxiv.org/abs/2312.09687).
 * G. Janssens, L. Margolis. [On integral decomposition of unipotent elements in integral group rings](https://arxiv.org/abs/2307.14820).
-* S. Properzi, A. Van Antwerpen. [A common divisor graph for skew braces](https://arxiv.org/abs/2306.12415).
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen. [Structure algebras of finite set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2305.06023).
 * K. Piterman, L. Vendramin. [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023).  
 * C. Dietzel. [Decomposition and structure theorems for Garside-like groups with modular lattice structure](https://arxiv.org/abs/2304.04114).
@@ -20,6 +19,7 @@
 
 ## Accepted for publication
 
+* S. Properzi, A. Van Antwerpen. [A common divisor graph for skew braces](https://arxiv.org/abs/2306.12415). _J. Pure Appl. Algebra._
 * C. Dietzel, S. Properzi, S. Trappeniers. [Indecomposable set-theoretical solutions to the Yang-Baxter equation of size $p^2$](https://arxiv.org/abs/2403.18653). _Comm. Algebra._ 
 * N. Mayorga Uruburu, A. Pacetti, L. Vendramin. [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826). _J. Algebra Appl._
 
@@ -28,7 +28,7 @@
 ### 2024 
 
 * G. Janssens, E. Jespers, O. Schnabel. [Units of twisted group rings and their correlations to classical group rings](https://arxiv.org/abs/2203.17220). _Adv. Math. 458 (2024), part B, Paper No. 109983._
-* L. Vendramin. [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). Geometric methods in physics XL, workshop, Białowieża, Poland, June 20-25, 2023. Cham: Birkhäuser. 153-175.
+* L. Vendramin. [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL, 153-175, Trends Math., Birkhäuser/Springer, Cham, 2024._
 * W. Rump, L. Vendramin. [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001). _Proc. Amer. Math. Soc. 152 (2024), 3197-3207._
 * I. Heckenberger, E. Meir, L. Vendramin. [Finite-dimensional Nichols algebras of simple Yetter-Drinfeld modules (over groups) of prime dimension](https://arxiv.org/abs/2306.02989). _Adv. Math. 444 (2024), Paper No. 109637._
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen, C. Verwimp. [Finite idempotent set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2212.07361). _Int. Math. Res. Not. IMRN(2024), no. 7, 5458–5489._
