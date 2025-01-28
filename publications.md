@@ -19,11 +19,14 @@
 
 ## Accepted for publication
 
-* S. Properzi, A. Van Antwerpen. [A common divisor graph for skew braces](https://arxiv.org/abs/2306.12415). _J. Pure Appl. Algebra._
 * C. Dietzel, S. Properzi, S. Trappeniers. [Indecomposable set-theoretical solutions to the Yang-Baxter equation of size $p^2$](https://arxiv.org/abs/2403.18653). _Comm. Algebra._ 
 * N. Mayorga Uruburu, A. Pacetti, L. Vendramin. [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826). _J. Algebra Appl._
 
 ## Published
+
+### 2025
+
+* S. Properzi, A. Van Antwerpen. [A common divisor graph for skew braces](https://arxiv.org/abs/2306.12415). _J. Pure Appl. Algebra 229 (2025), no. 2, Paper No. 107876._
 
 ### 2024 
 
