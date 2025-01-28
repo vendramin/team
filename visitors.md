@@ -1,5 +1,10 @@
 ## Visitors
 
+### 2025
+
+* Paul Truman (Keele, UK), 20/1.
+* Andrea Caranti (Trento, Italy), 20/1.
+
 ### 2024 
 
 * Be'eri Greenfeld (Washington, USA), 25/11-5/1/2025. Supported by FWO V507824N. 
