@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* B. Bogaerts, D. Van Caudenberg, L. Vendramin. [Incremental SAT-Based Enumeration of Solutions to the Yang-Baxter Equation](https://arxiv.org/abs/2501.14363). 
 * M. Mereb, L. Vendramin. [Rubik's as a Galois'](http://arxiv.org/abs/2411.11566).
 * N. Andruskiewitsch, I. Heckenberger, L. Vendramin. [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304).
 * K. Piterman. [Spherical p-group complexes arising from finite groups of Lie type](https://arxiv.org/abs/2403.07489). 
