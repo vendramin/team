@@ -11,6 +11,11 @@
 * 2021-2023. FWO PostDoc Grant for Arne Van Antwerpen (1229724N). The interplay between the Yang-Baxter equation and its associated algebraic structures, with special focus on old conjectures. 
 * 2018-2020. FWO Predoc Grant for Charlotte Verwimp (1229724N): Solutions of the Yang-Baxter equation and associated algebraic structures.
 
+### Small travel grants
+
+* 2024. K231124N. Kevin Piterman.  
+* 2023. K248323N. Silvia Properzi.
+
 ### Others
 
 * 2023-2024. London Mathematical Society Scheme 3: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/index.html). With I. Colazzo (UK) and P. Truman (UK).  
