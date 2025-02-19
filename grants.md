@@ -13,8 +13,8 @@
 
 ### Small travel grants
 
-* 2024. K231124N. Kevin Piterman.  
-* 2023. K248323N. Silvia Properzi.
+* K231124N. Kevin Piterman. 
+* K248323N. Silvia Properzi.
 
 ### Others
 
