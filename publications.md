@@ -2,6 +2,8 @@
 
 ## Preprints
 
+* A. Kanrar, C. Roelants, M. Yadav. [Central series' and n-isoclinism of skew left braces](https://arxiv.org/abs/2503.10313).
+* D. Ferri, Y. Shibukawa. [Structure groupoids of quiver-theoretic Yang-Baxter maps](https://arxiv.org/abs/2503.10327).
 * B. Bogaerts, D. Van Caudenberg, L. Vendramin. [Incremental SAT-Based Enumeration of Solutions to the Yang-Baxter Equation](https://arxiv.org/abs/2501.14363). 
 * M. Mereb, L. Vendramin. [Rubik's as a Galois'](http://arxiv.org/abs/2411.11566).
 * N. Andruskiewitsch, I. Heckenberger, L. Vendramin. [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304).

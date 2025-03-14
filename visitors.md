@@ -2,6 +2,8 @@
 
 ### 2025
 
+* Mahender Singh (Mohali, India), 7/3-14/3. 
+* Teresa Krick (Buenos Aires, Argentina), 28/2. 
 * Paul Truman (Keele, UK), 20/1.
 * Andrea Caranti (Trento, Italy), 20/1.
 
