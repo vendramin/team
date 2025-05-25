@@ -1,5 +1,6 @@
 ## Grants 
 
+* (2025) International Joint Research Group (OZR/2025/0492). PIs: I. Colazzo and L. Vendramin. 
 * (2024) Senior Project G004124N. Skew braces and applications. PI: Leandro Vendramin.
 * (2021) OZR3762: Algebraic structures associated with the Yang-Baxter equation. PI: Leandro Vendramin.  
 
@@ -28,4 +29,4 @@
 * (2023) FWO & CNRS: International Emerging Actions (IEA) project 328226. PI: V. Lebed and L. Vendramin. 
 * (2023) OZR4014. VUB Backup Mandate for Silvia Properzi: Skew braces, quivers and applications to the Yang-Baxter equation.
 * (2023) [Feodor Lynen Research Postdoctoral Fellowships](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship) for Carsten Dietzel.
-* London Mathematical Society Scheme 3: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/index.html). With I. Colazzo (UK) and P. Truman (UK). 
+* London Mathematical Society Scheme 3: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/index.html). With I. Colazzo (UK) and P. Truman (UK). Since 2023. 
