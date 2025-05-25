@@ -23,12 +23,12 @@
 
 * D. Ferri, A. Sciandra. [Matched pairs and Yetter-Drinfeld braces](https://arxiv.org/abs/2406.10009). _Canad. J. Math._
 * K. Piterman. [Spherical p-group complexes arising from finite groups of Lie type](https://arxiv.org/abs/2403.07489). _Algebr. Geom. Topol._
-* C. Dietzel, S. Properzi, S. Trappeniers. [Indecomposable set-theoretical solutions to the Yang-Baxter equation of size $p^2$](https://arxiv.org/abs/2403.18653). _Comm. Algebra._ 
 
 ## Published
 
 ### 2025
 
+* C. Dietzel, S. Properzi, S. Trappeniers. [Indecomposable set-theoretical solutions to the Yang-Baxter equation of size $p^2$](https://arxiv.org/abs/2403.18653). _Comm. Algebra 53 (2025), no. 3, 1238-1256._
 * B. Bogaerts, D. Van Caudenberg, L. Vendramin. [Incremental SAT-Based Enumeration of Solutions to the Yang-Baxter Equation](https://arxiv.org/abs/2501.14363). In: Gurfinkel, A., Heule, M. (eds) _Tools and Algorithms for the Construction and Analysis of Systems. TACAS 2025. Lecture Notes in Computer Science, vol 15697. Springer, Cham._
 *  N. Mayorga Uruburu, A. Pacetti, L. Vendramin. [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826). _J. Algebra Appl. 24 (2025), no. 9, Paper No. 2550215._
 * S. Properzi, A. Van Antwerpen. [A common divisor graph for skew braces](https://arxiv.org/abs/2306.12415). _J. Pure Appl. Algebra 229 (2025), no. 2, Paper No. 107876._
