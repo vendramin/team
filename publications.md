@@ -21,6 +21,7 @@
 
 ## Accepted for publication
 
+* K. Piterman, V. Welker. [Posets arising from decompositions of objects in a monoidal category](https://arxiv.org/abs/2401.09280). _Forum of Mathematics, Sigma_
 * D. Ferri, A. Sciandra. [Matched pairs and Yetter-Drinfeld braces](https://arxiv.org/abs/2406.10009). _Canad. J. Math._
 * K. Piterman. [Spherical p-group complexes arising from finite groups of Lie type](https://arxiv.org/abs/2403.07489). _Algebr. Geom. Topol._
 
