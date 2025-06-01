@@ -13,7 +13,6 @@
 * C. Dietzel, E. Feingesicht, S. Properzi. [Indecomposability and irreducibility of monomial representations for set-theoretical solutions to the Yang-Baxter equation](https://arxiv.org/abs/2409.10648).
 * S. Trappeniers. [A Lazard-type correspondence and applications to post-Lie rings and skew braces](https://arxiv.org/abs/2406.02475).
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen. [Simple solutions of the Yang-Baxter equation](https://arxiv.org/abs/2312.09687).
-* G. Janssens, L. Margolis. [On integral decomposition of unipotent elements in integral group rings](https://arxiv.org/abs/2307.14820).
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen. [Structure algebras of finite set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2305.06023).
 * K. Piterman, L. Vendramin. [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023).  
 * C. Dietzel. [Decomposition and structure theorems for Garside-like groups with modular lattice structure](https://arxiv.org/abs/2304.04114).
@@ -21,7 +20,8 @@
 
 ## Accepted for publication
 
-* K. Piterman, V. Welker. [Posets arising from decompositions of objects in a monoidal category](https://arxiv.org/abs/2401.09280). _Forum of Mathematics, Sigma_
+* G. Janssens, L. Margolis. [On integral decomposition of unipotent elements in integral group rings](https://arxiv.org/abs/2307.14820). _Proc. Roy. Soc. Edinburgh Sect. A._
+* K. Piterman, V. Welker. [Posets arising from decompositions of objects in a monoidal category](https://arxiv.org/abs/2401.09280). _Forum of Mathematics, Sigma._
 * D. Ferri, A. Sciandra. [Matched pairs and Yetter-Drinfeld braces](https://arxiv.org/abs/2406.10009). _Canad. J. Math._
 * K. Piterman. [Spherical p-group complexes arising from finite groups of Lie type](https://arxiv.org/abs/2403.07489). _Algebr. Geom. Topol._
 
