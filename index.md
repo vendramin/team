@@ -8,7 +8,6 @@
 * Magdalena Wiertel.
 * [Andrew Darlington](https://sites.google.com/view/andrewdarlington/home?authuser=0). 
 * [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite?pli=1).
-* [Geoffrey Janssens](https://geoffreyjanssens.github.io/).
 * [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/).
 * [Arne Van Antwerpen](https://vanantwerpen.github.io/).
 
@@ -23,10 +22,10 @@
 * [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home). Supervisors: L. Vendramin and J. Vercruysse. 
 * [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage). Supervisors: A. Van Antwerpen and L. Vendramin.
 * Santiago Ramírez. Supervisor: L. Vendramin.
-* [Emiliano Acri](http://mate.dm.uba.ar/~eacri/). Supervisor: L. Vendramin. 
 
 #### Former
 
+* (2025) Emiliano Acri. Supervisor: L. Vendramin, [thesis](https://leandrovendramin.org/files/acri.pdf).
 * (2022) Charlotte Verwimp. Supervisor: Eric Jespers, [thesis](https://leandrovendramin.org/files/verwimp.pdf).
 
 ## Publications
