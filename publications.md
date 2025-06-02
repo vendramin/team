@@ -45,7 +45,7 @@
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen, C. Verwimp. [Finite idempotent set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2212.07361). _Int. Math. Res. Not. IMRN(2024), no. 7, 5458–5489._
 * V. Lebed, S. Ramírez, L. Vendramin. [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041). _Rev. Mat. Iberoam. 40 (2024), no. 2, pp. 623–635._
 * L. Vendramin. [What is... a skew brace?](https://www.ams.org/notices/202401/rnoti-p65.pdf) _Notices Amer. Math. Soc. 71 (2024), no. 1, 65-67._
-* T. Letourmy, L. Vendramin. [Schur covers of skew braces](https://arxiv.org/abs/2302.03970) (with T. Letourmy) _J. Algebra 644 (2024), 609-654._
+* T. Letourmy, L. Vendramin. [Schur covers of skew braces](https://arxiv.org/abs/2302.03970). _J. Algebra 644 (2024), 609-654._
 
 ### 2023
 
