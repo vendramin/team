@@ -37,6 +37,7 @@
 
 ### 2024 
 
+* G. Carnovale, I. Heckenberger, L. Vendramin. [Mini-workshop: Bridging number theory and Nichols algebras via deformations](https://ems.press/content/serial-article-files/48647). Oberwolfach Rep. 21, No. 1, 235-272 (2024).
 * G. Janssens, E. Jespers, O. Schnabel. [Units of twisted group rings and their correlations to classical group rings](https://arxiv.org/abs/2203.17220). _Adv. Math. 458 (2024), part B, Paper No. 109983._
 * L. Vendramin. [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL, 153-175, Trends Math., Birkhäuser/Springer, Cham, 2024._
 * W. Rump, L. Vendramin. [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001). _Proc. Amer. Math. Soc. 152 (2024), 3197-3207._
