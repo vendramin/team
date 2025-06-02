@@ -2,7 +2,7 @@
 
 ## Preprints
 
-* I. Angiono, L. Vendramin. [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555).
+* I. Angiono, L. Vendramin. [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555). GAP code DOI: [10.5281/zenodo.15554003](https://doi.org/10.5281/zenodo.15554003).
 * D. Ferri. [Reflections and Drinfeld twists for set-theoretic Yang-Baxter maps](https://arxiv.org/abs/2504.21678). 
 * B. Brück, K. Piterman. [Connectivity of partial basis complexes of freely decomposable groups](https://arxiv.org/abs/2410.17121).
 * A. Kanrar, C. Roelants, M. Yadav. [Central series' and n-isoclinism of skew left braces](https://arxiv.org/abs/2503.10313).
@@ -32,7 +32,7 @@
 
 * C. Dietzel, S. Properzi, S. Trappeniers. [Indecomposable set-theoretical solutions to the Yang-Baxter equation of size $p^2$](https://arxiv.org/abs/2403.18653). _Comm. Algebra 53 (2025), no. 3, 1238-1256._
 * B. Bogaerts, D. Van Caudenberg, L. Vendramin. [Incremental SAT-Based Enumeration of Solutions to the Yang-Baxter Equation](https://arxiv.org/abs/2501.14363). In: Gurfinkel, A., Heule, M. (eds) _Tools and Algorithms for the Construction and Analysis of Systems. TACAS 2025. Lecture Notes in Computer Science, vol 15697. Springer, Cham._
-*  N. Mayorga Uruburu, A. Pacetti, L. Vendramin. [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826). _J. Algebra Appl. 24 (2025), no. 9, Paper No. 2550215._
+*  N. Mayorga Uruburu, A. Pacetti, L. Vendramin. [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826). _J. Algebra Appl. 24 (2025), no. 9, Paper No. 2550215._ GAP code DOI: [10.5281/zenodo.8113634](https://doi.org/10.5281/zenodo.8113634).
 * S. Properzi, A. Van Antwerpen. [A common divisor graph for skew braces](https://arxiv.org/abs/2306.12415). _J. Pure Appl. Algebra 229 (2025), no. 2, Paper No. 107876._
 
 ### 2024 
@@ -55,7 +55,7 @@
 * E. Jespers, A. Van Antwerpen, L. Vendramin. [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572). _Commun. Contemp. Math. 25 (2023), no. 09, Paper No. 2250064._ 
 * S. Trappeniers. [On two-sided skew braces](https://arxiv.org/abs/2208.04772). _J. Algebra 631 (2023), 267-286._
-* C. Dietzel, P. Menchón, L. Vendramin. [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955). _Math. Comp. 92 (2023), no. 341, 1363–1381._ [code](https://zenodo.org/badge/latestdoi/417288153).
+* C. Dietzel, P. Menchón, L. Vendramin. [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955). _Math. Comp. 92 (2023), no. 341, 1363–1381._ Code DOI: [10.5281/zenodo.417288153](https://zenodo.org/badge/latestdoi/417288153).
 * A. Bächle, G. Janssens, E. Jespers, A. Kiefer, D. Temmerman. [Abelianization and fixed point properties of units in integral group rings](https://arxiv.org/abs/1811.12184). _Math. Nachr. 296 (2023), no. 1, 8–56._
 * L. Stefanello, S. Trappeniers. [On bi-skew braces and brace blocks](https://arxiv.org/abs/2205.15073). _J. Pure Appl. Algebra 227 (2023), no. 5, Paper No. 107295_.
 * F. Cedó, E. Jespers, Ł. Kubat, A. Van Antwerpen, C. Verwimp. [On various types of nilpotency of the structure monoid and group of a set-theoretic solution of the Yang-Baxter equation](https://arxiv.org/abs/2011.01724). _J. Pure Appl. Algebra 227 (2023), no. 2, Paper No. 107194, 38 pp._
@@ -67,7 +67,7 @@
 * A. Bächle, G. Janssens, E. Jespers, A. Kiefer, D. Temmerman. [A dichotomy for integral group rings via higher modular groups as amalgamated products](https://arxiv.org/abs/1811.12226). _J. Algebra 604 (2022), 185–223_. 
 * I. Colazzo, E. Jespers, A. Van Antwerpen, C. Verwimp. [Left non-degenerate set-theoretic solutions of the Yang-Baxter equation and semitrusses](https://www.sciencedirect.com/science/article/pii/S0021869322003520?via%3Dihub), _J. Algebra 610 (2022), 409-462_.
 * V. Lebed, L. Vendramin. [Reflection equation as a tool for studying solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.01752). _J. Algebra 607 (2022), 360–380_.
-* Ö. Akgün, M. Mereb, L. Vendramin. [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483). _Math. Comp. 91 (2022), no. 335, 1469–1481_, [code](https://zenodo.org/badge/latestdoi/283301509).
+* Ö. Akgün, M. Mereb, L. Vendramin. [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483). _Math. Comp. 91 (2022), no. 335, 1469–1481_. Code DOI: [10.5281/zenodo.5180744](https://doi.org/10.5281/zenodo.5180744).
 * S. Ramírez, L. Vendramin. [Decomposition theorems for involutive solutions to the Yang-Baxter
   equation](http://arxiv.org/abs/2101.04239). _Int. Math. Res. Not. IMRN 2022, no. 22, 18078–18091_.
 * L. Vendramin. [Nudos, quandles y homología (Spanish)](https://github.com/vendramin/nudos/raw/main/nudos.pdf). _Gac. R. Soc. Mat. Esp. 25 (2022), no. 1, 85-110_.
