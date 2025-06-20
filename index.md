@@ -9,7 +9,6 @@
 * [Andrew Darlington](https://sites.google.com/view/andrewdarlington/home?authuser=0). 
 * [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite?pli=1).
 * [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/).
-* [Arne Van Antwerpen](https://vanantwerpen.github.io/).
 
 ### Ph.D. students
 
