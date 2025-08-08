@@ -24,9 +24,7 @@
 
 ## Accepted for publication
 
-* D. Ferri. [On dynamical skew braces and skew bracoids](https://arxiv.org/abs/2410.10717). _J. Pure Appl. Algebra._
 * G. Janssens, L. Margolis. [On integral decomposition of unipotent elements in integral group rings](https://arxiv.org/abs/2307.14820). _Proc. Roy. Soc. Edinburgh Sect. A._
-* K. Piterman, V. Welker. [Posets arising from decompositions of objects in a monoidal category](https://arxiv.org/abs/2401.09280). _Forum of Mathematics, Sigma._
 * D. Ferri, A. Sciandra. [Matched pairs and Yetter-Drinfeld braces](https://arxiv.org/abs/2406.10009). _Canad. J. Math._
 * K. Piterman. [Spherical p-group complexes arising from finite groups of Lie type](https://arxiv.org/abs/2403.07489). _Algebr. Geom. Topol._
 
@@ -34,6 +32,8 @@
 
 ### 2025
 
+* K. Piterman, V. Welker. [Posets arising from decompositions of objects in a monoidal category](https://arxiv.org/abs/2401.09280). _Forum Math. Sigma 13 (2025), Paper No. e123._
+* D. Ferri. [On dynamical skew braces and skew bracoids](https://arxiv.org/abs/2410.10717). _J. Pure Appl. Algebra 229 (2025), no. 9, Paper No. 108036._
 * C. Dietzel, S. Properzi, S. Trappeniers. [Indecomposable set-theoretical solutions to the Yang-Baxter equation of size $p^2$](https://arxiv.org/abs/2403.18653). _Comm. Algebra 53 (2025), no. 3, 1238-1256._
 * B. Bogaerts, D. Van Caudenberg, L. Vendramin. [Incremental SAT-Based Enumeration of Solutions to the Yang-Baxter Equation](https://arxiv.org/abs/2501.14363). In: Gurfinkel, A., Heule, M. (eds) _Tools and Algorithms for the Construction and Analysis of Systems. TACAS 2025. Lecture Notes in Computer Science, vol 15697. Springer, Cham._ Code and database [here](https://gitlab.kuleuven.be/krr/software/ybe-sms).
 *  N. Mayorga Uruburu, A. Pacetti, L. Vendramin. [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826). _J. Algebra Appl. 24 (2025), no. 9, Paper No. 2550215._ GAP code DOI: [10.5281/zenodo.8113634](https://doi.org/10.5281/zenodo.8113634).
