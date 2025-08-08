@@ -2,6 +2,8 @@
 
 ## Preprints
 
+* A. Darlington. [An Algorithm for Computing Hopf-Galois Structures and Skew Bracoids of Low Degree](https://arxiv.org/abs/2508.03372). 
+* A. Darlington. [Hopf-Galois structures on separable field extensions of degree related to Cunningham chains](https://arxiv.org/abs/2508.03384).
 * K. Piterman, C. Roelants. [On reducible Killing forms for groups of Lie type](https://arxiv.org/abs/2507.17902). 
 * T. Letourmy. [Free commutative skew braces](https://arxiv.org/abs/2506.19765). 
 * I. Angiono, L. Vendramin. [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555). GAP code DOI: [10.5281/zenodo.15554003](https://doi.org/10.5281/zenodo.15554003).
