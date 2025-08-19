@@ -10,3 +10,8 @@ Alternatively: [iCal](https://calendar.google.com/calendar/ical/84fcd62805e4eb85
 * [2024](2024.md)
 * [2023](2023.md)
 * [2022](2022.md)
+
+## Organizers
+* Silvia Properzi.
+* Kevin Piterman.
+* Leandro Vendramin. 
