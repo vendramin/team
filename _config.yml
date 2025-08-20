@@ -1,5 +1,7 @@
 remote_theme: pages-themes/modernist@v0.2.0
-yaml
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
 plugins:
 - jekyll-remote-theme  
 - jekyll-spaceship
