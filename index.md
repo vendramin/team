@@ -5,6 +5,7 @@
 
 ### Postdocs
 
+* Meijun Liu. 
 * Magdalena Wiertel.
 * [Andrew Darlington](https://sites.google.com/view/andrewdarlington/home?authuser=0). 
 * [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite?pli=1).
@@ -14,6 +15,7 @@
 
 #### Current
 
+* Lukas Simons. Supervisors: L. Vendramin and J. Vercruysse. 
 * Yufei Qin. Supervisors: L. Vendramin and G. Zhou. 
 * [Charlotte Roelants](https://sites.google.com/view/charlotteroelants/home). Supervisors: K. Piterman and L. Vendramin
 * [Davide Ferri](https://sites.google.com/view/davide-ferri/). Supervisors: A. Ardizzoni and L. Vendramin.
