@@ -24,6 +24,7 @@
 
 ## Accepted for publication
 
+* K. Piterman, I. Sadofschi Costa. [Group actions on contractible 2-complexes II](https://arxiv.org/abs/2102.11459). _Invent. Math._
 * G. Janssens, L. Margolis. [On integral decomposition of unipotent elements in integral group rings](https://arxiv.org/abs/2307.14820). _Proc. Roy. Soc. Edinburgh Sect. A._
 * D. Ferri, A. Sciandra. [Matched pairs and Yetter-Drinfeld braces](https://arxiv.org/abs/2406.10009). _Canad. J. Math._
 * K. Piterman. [Spherical p-group complexes arising from finite groups of Lie type](https://arxiv.org/abs/2403.07489). _Algebr. Geom. Topol._
