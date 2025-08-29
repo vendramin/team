@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* K. Piterman, V. Welker. [Notes on the topology of independence structures](https://arxiv.org/abs/2508.12971).
 * A. Darlington. [An Algorithm for Computing Hopf-Galois Structures and Skew Bracoids of Low Degree](https://arxiv.org/abs/2508.03372). 
 * A. Darlington. [Hopf-Galois structures on separable field extensions of degree related to Cunningham chains](https://arxiv.org/abs/2508.03384).
 * K. Piterman, C. Roelants. [On reducible Killing forms for groups of Lie type](https://arxiv.org/abs/2507.17902). 
