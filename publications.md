@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* N. Andruskiewitsch, F. Dumas. [On the super Jordan plane](https://arxiv.org/pdf/2509.01918).
 * K. Piterman, V. Welker. [Notes on the topology of independence structures](https://arxiv.org/abs/2508.12971).
 * A. Darlington. [An Algorithm for Computing Hopf-Galois Structures and Skew Bracoids of Low Degree](https://arxiv.org/abs/2508.03372). 
 * A. Darlington. [Hopf-Galois structures on separable field extensions of degree related to Cunningham chains](https://arxiv.org/abs/2508.03384).
@@ -14,7 +15,6 @@
 * D. Ferri, Y. Shibukawa. [Structure groupoids of quiver-theoretic Yang-Baxter maps](https://arxiv.org/abs/2503.10327).
 * M. Mereb, L. Vendramin. [Rubik's as a Galois'](http://arxiv.org/abs/2411.11566).
 * N. Andruskiewitsch, I. Heckenberger, L. Vendramin. [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304).
-* M. Gran, T. Letourmy, L. Vendramin. [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056).
 * C. Dietzel, E. Feingesicht, S. Properzi. [Indecomposability and irreducibility of monomial representations for set-theoretical solutions to the Yang-Baxter equation](https://arxiv.org/abs/2409.10648).
 * S. Trappeniers. [A Lazard-type correspondence and applications to post-Lie rings and skew braces](https://arxiv.org/abs/2406.02475).
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen. [Simple solutions of the Yang-Baxter equation](https://arxiv.org/abs/2312.09687).
@@ -25,6 +25,7 @@
 
 ## Accepted for publication
 
+* M. Gran, T. Letourmy, L. Vendramin. [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056). _J. Pure Appl. Algebra._
 * K. Piterman, I. Sadofschi Costa. [Group actions on contractible 2-complexes II](https://arxiv.org/abs/2102.11459). _Invent. Math._
 * G. Janssens, L. Margolis. [On integral decomposition of unipotent elements in integral group rings](https://arxiv.org/abs/2307.14820). _Proc. Roy. Soc. Edinburgh Sect. A._
 * D. Ferri, A. Sciandra. [Matched pairs and Yetter-Drinfeld braces](https://arxiv.org/abs/2406.10009). _Canad. J. Math._
