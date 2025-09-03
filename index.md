@@ -3,6 +3,9 @@
 * [Eric Jespers](https://ericjespers.github.io).
 * [Leandro Vendramin](https://leandrovendramin.org/).
 
+### Francqui VUB-Leerstoel
+* Istvan Heckenberger.
+
 ### VUB-Leerstoel
 * [Nicolás Andruskiewitsch](https://www.famaf.unc.edu.ar/~andrus/).
 
