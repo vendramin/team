@@ -33,6 +33,10 @@
 
 ## Published
 
+### Books
+* F. Cedó, L. Vendramin. [Groups, Radical Rings, and the Yang-Baxter Equation](https://link.springer.com/book/9783032015235?srsltid=AfmBOoqemrL_uphdbNFYHigOPdVYlB8xzu53lYaPzzu-IWOD5v70UeJF). Progress in Mathematics, volume 361. Winner of the 2025 [Ferran Sunyer i Balaguer Prize](https://ffsb.iec.cat/en/the-ferran-sunyer-i-balaguer-prize/). Birkhäuser.
+
+
 ### 2025
 
 * K. Piterman, V. Welker. [Posets arising from decompositions of objects in a monoidal category](https://arxiv.org/abs/2401.09280). _Forum Math. Sigma 13 (2025), Paper No. e123._
