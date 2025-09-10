@@ -10,7 +10,6 @@
 * T. Letourmy. [Free commutative skew braces](https://arxiv.org/abs/2506.19765). 
 * I. Angiono, L. Vendramin. [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555). GAP code DOI: [10.5281/zenodo.15554003](https://doi.org/10.5281/zenodo.15554003).
 * D. Ferri. [Reflections and Drinfeld twists for set-theoretic Yang-Baxter maps](https://arxiv.org/abs/2504.21678). 
-* B. Brück, K. Piterman. [Connectivity of partial basis complexes of freely decomposable groups](https://arxiv.org/abs/2410.17121).
 * A. Kanrar, C. Roelants, M. Yadav. [Central series' and n-isoclinism of skew left braces](https://arxiv.org/abs/2503.10313).
 * D. Ferri, Y. Shibukawa. [Structure groupoids of quiver-theoretic Yang-Baxter maps](https://arxiv.org/abs/2503.10327).
 * M. Mereb, L. Vendramin. [Rubik's as a Galois'](http://arxiv.org/abs/2411.11566).
@@ -25,6 +24,7 @@
 
 ## Accepted for publication
 
+* B. Brück and K.I. Piterman. [Connectivity of partial basis complexes of freely decomposable groups](https://arxiv.org/abs/2410.17121). _Bull. Lond. Math Soc._ 
 * M. Gran, T. Letourmy, L. Vendramin. [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056). _J. Pure Appl. Algebra._
 * K. Piterman, I. Sadofschi Costa. [Group actions on contractible 2-complexes II](https://arxiv.org/abs/2102.11459). _Invent. Math._
 * G. Janssens, L. Margolis. [On integral decomposition of unipotent elements in integral group rings](https://arxiv.org/abs/2307.14820). _Proc. Roy. Soc. Edinburgh Sect. A._
