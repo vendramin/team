@@ -1,32 +1,44 @@
-## Grants 
+## Grants
 
-* (2025) International Joint Research Group (OZR/2025/0492). PIs: I. Colazzo and L. Vendramin. 
-* (2024) Senior Project G004124N. Skew braces and applications. PI: Leandro Vendramin.
-* (2021) OZR3762: Algebraic structures associated with the Yang-Baxter equation. PI: Leandro Vendramin.  
+* 2025-2028. ULB-VUB joint research group (OZR/2025/0523) (J. Vercruysse and L. Vendramin). €2500.
+* 2025-2028. International Joint Research Group (OZR/2025/0492) (I. Colazzo and L. Vendramin). €30000.
+* 2024-2027. FWO Senior Grant (G004124N). Skew braces and applications (L. Vendramin). €310K. 
+* 2023-2026. FWO & CNRS: International Emerging Actions (IEA) project 328226 (V. Lebed and L. Vendramin). €12000. 
+* 2021-2025. OZR3762: Algebraic structures associated with the Yang-Baxter equation (L. Vendramin). €100K.
 
-### FWO
+### Funding obtained by PhD candidates
+* 2025-2028. FNRS Predoc Grant (40031463). Candidate: Lukas Simons. Supervisors: L. Vendramin, J. Vercruysse.
+* 2024-2025. China Scholarship Council (CSC No. 202406140151). Candidate: Yufei Qin. Supervisors: L. Vendramin, G. Zhou. 
+* 2024-2027. FWO Predoc Grant (11PIO24N). Candidate: Silvia Properzi. Supervisor: L. Vendramin. 
+* 2023-2024. OZR4014 (VUB Backup Mandate). Candidate: Silvia Properzi. Supervisor: L. Vendramin. 
+* 2023-2026. FNRS Predoc Grant (40017081). Candidate: Thomas Letourmy. Supervisors: L. Vendramin, J. Vercruysse.
+* 2021-2025. FWO Predoc Grant (1160522N). Candidate: of Senne Trappeniers. Supervisors: L. Vendramin, A. Van Antwerpen. 
 
-#### Postdocs 
+### Funding obtained by postdoctoral researchers 
+* 2025-2026. China Scholarship Council (CSC No. 202406680120). Meijun Liu. Host: L. Vendramin. 
+* 2025-2027. [NAWA Bekker Fellowship](https://nawa.gov.pl/en/scientists/the-bekker-programme) (BPN/BEK/2024/1/00311). Magdalena Wiertel. Host: L. Vendramin.
+* 2024-2027. FWO PostDoc Grant (1244625N). Carsten Dietzel. Host: Supervisor: L. Vendramin.  
+* 2022-2024. FWO Postdoc Grant (12K1223N). Kevin Piterman. Host: Supervisor: L. Vendramin.
+* 2022-2024. [Feodor Lynen Research Postdoctoral Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship). Carsten Dietzel. Host: L. Vendramin. 
 
-* (2025) NAWA Bekker Fellowship (BPN/BEK/2024/1/00311). Magdalena Wiertel.
-* (2024) 1244625N. Carsten Dietzel: Combinatorics of the Yang-Baxter equation. 
-* (2023) 1229724N. Arne Van Antwerpen: The reciprocity between solutions of the Yang-Baxter equation, skew braces and Lie algebras, with attention to computational applications. 
-* (2022) 12K1223N. Kevin Piterman: p-local properties of Skew Braces and solutions to the Yang-Baxter equations. 
-
-#### Predocs 
-
-* (2024) China Scholarship Council. Yufei Qin.
-* (2023) 11PIO24N. Silvia Properzi: Skew braces, quivers, and applications to the Yang-Baxter equation. 
-* (2021) 1160522N. Senne Trappeniers: The combinatorics of the Yang-Baxter equation and related algebraic structures. 
+### Funding obtained for visitors  
+* 2025: [Francqui VUB-Leerstoel](https://leandrovendramin.org/heckenberger/) for István Heckenberger. Host: L. Vendramin. €6000.
+* 2025: [VUB-Leerstoel](https://leandrovendramin.org/andruskiewitsch/) for Nicolás Andruskiewitsch. Host: L. Vendramin. €6000.
+* 2024: Be'eri Greenfeld, Scientific Stay in Flanders (V507824N), from 24/11 to 05/1. Host: L. Vendramin. 
+* 2023: Ilaria Colazzo, Scientific Stay in Flanders (V512223N), from 9/11 to 17/12. Host: L. Vendramin
 
 #### Small travel grants
 
-* (2024) K231124N. Kevin Piterman.  
-* (2023) K248323N. Silvia Properzi.
-
-### Others
-
-* (2023) FWO & CNRS: International Emerging Actions (IEA) project 328226. PI: V. Lebed and L. Vendramin. 
-* (2023) OZR4014. VUB Backup Mandate for Silvia Properzi: Skew braces, quivers and applications to the Yang-Baxter equation.
-* (2023) [Feodor Lynen Research Postdoctoral Fellowships](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship) for Carsten Dietzel.
-* London Mathematical Society Scheme 3: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/index.html). With I. Colazzo (UK) and P. Truman (UK). Since 2023. 
+* (2024) FWO K231124N. Kevin Piterman.  
+* (2023) FWO K248323N. Silvia Properzi.
+ 
+### Funding obtained for organizing conferences
+* 2025: [Conference on Hopf algebras, quantum groups, monoidal categories and related structures](https://hopfalgb.ulb.be/Hopf2025/).
+    * Fonds voor Wetenschappelijk Onderzoek – Vlaanderen (K701825N): €4500.
+    * Hooverfond VUB: €2000.
+* 2025: [GAP Days Spring 2025](https://www.gapdays.de/gapdays2025-spring/). VUB Doctoral School: €750.
+* 2023, 2024, 2025: London Mathematical Society Scheme 3: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/index.html). Organizers: I. Colazzo, P. Truman, L. Vendramin. £1500 per year.  
+* 2023: [Groups, rings and the Yang-Baxter equation](http://www.ilariacolazzo.info/gryb2023/), Blankenberge, Belgium. Organizers: I. Colazzo, A. Van Antwerpen, L. Vendramin.
+    * Fonds voor Wetenschappelijk Onderzoek – Vlaanderen (K700923N). €5000.
+    * Foundation Compositio Mathematica. €5000.
+    * VUB Doctoral School: €750.
