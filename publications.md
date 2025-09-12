@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* M. Damele, A. Loi, M. Mereb, L. Vendramin. [Galois' Professor's Revenge](https://arxiv.org/abs/2509.09662).
 * N. Andruskiewitsch, F. Dumas. [On the super Jordan plane](https://arxiv.org/pdf/2509.01918).
 * K. Piterman, V. Welker. [Notes on the topology of independence structures](https://arxiv.org/abs/2508.12971).
 * A. Darlington. [An Algorithm for Computing Hopf-Galois Structures and Skew Bracoids of Low Degree](https://arxiv.org/abs/2508.03372). 
