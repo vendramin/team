@@ -27,7 +27,6 @@
 ## Accepted for publication
 
 * B. Brück and K.I. Piterman. [Connectivity of partial basis complexes of freely decomposable groups](https://arxiv.org/abs/2410.17121). _Bull. Lond. Math Soc._ 
-* M. Gran, T. Letourmy, L. Vendramin. [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056). _J. Pure Appl. Algebra._
 * K. Piterman, I. Sadofschi Costa. [Group actions on contractible 2-complexes II](https://arxiv.org/abs/2102.11459). _Invent. Math._
 * G. Janssens, L. Margolis. [On integral decomposition of unipotent elements in integral group rings](https://arxiv.org/abs/2307.14820). _Proc. Roy. Soc. Edinburgh Sect. A._
 * D. Ferri, A. Sciandra. [Matched pairs and Yetter-Drinfeld braces](https://arxiv.org/abs/2406.10009). _Canad. J. Math._
@@ -40,7 +39,7 @@
 
 
 ### 2025
-
+* M. Gran, T. Letourmy, L. Vendramin. [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056).  _J. Pure Appl. Algebra 229 (2025), no. 11, Paper No. 108085._
 * K. Piterman, V. Welker. [Posets arising from decompositions of objects in a monoidal category](https://arxiv.org/abs/2401.09280). _Forum Math. Sigma 13 (2025), Paper No. e123._
 * D. Ferri. [On dynamical skew braces and skew bracoids](https://arxiv.org/abs/2410.10717). _J. Pure Appl. Algebra 229 (2025), no. 9, Paper No. 108036._
 * C. Dietzel, S. Properzi, S. Trappeniers. [Indecomposable set-theoretical solutions to the Yang-Baxter equation of size $p^2$](https://arxiv.org/abs/2403.18653). _Comm. Algebra 53 (2025), no. 3, 1238-1256._
