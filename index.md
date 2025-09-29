@@ -27,11 +27,11 @@
 * [Davide Ferri](https://sites.google.com/view/davide-ferri/). Supervisors: A. Ardizzoni and L. Vendramin.
 * [Silvia Properzi](https://properzi.github.io). Supervisor: L. Vendramin. 
 * [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home). Supervisors: L. Vendramin and J. Vercruysse. 
-* [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage). Supervisors: A. Van Antwerpen and L. Vendramin.
 * Santiago Ramírez. Supervisor: L. Vendramin.
 
 #### Former
 
+* (2025) [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage). Supervisors: A. Van Antwerpen and L. Vendramin, [thesis](files/trappeniers.pdf).
 * (2025) Emiliano Acri. Supervisor: L. Vendramin, [thesis](https://leandrovendramin.org/files/acri.pdf).
 * (2022) Charlotte Verwimp. Supervisor: Eric Jespers, [thesis](https://leandrovendramin.org/files/verwimp.pdf).
 
