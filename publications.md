@@ -28,7 +28,6 @@
 
 * B. Brück and K.I. Piterman. [Connectivity of partial basis complexes of freely decomposable groups](https://arxiv.org/abs/2410.17121). _Bull. Lond. Math Soc._ 
 * K. Piterman, I. Sadofschi Costa. [Group actions on contractible 2-complexes II](https://arxiv.org/abs/2102.11459). _Invent. Math._
-* G. Janssens, L. Margolis. [On integral decomposition of unipotent elements in integral group rings](https://arxiv.org/abs/2307.14820). _Proc. Roy. Soc. Edinburgh Sect. A._
 * D. Ferri, A. Sciandra. [Matched pairs and Yetter-Drinfeld braces](https://arxiv.org/abs/2406.10009). _Canad. J. Math._
 * K. Piterman. [Spherical p-group complexes arising from finite groups of Lie type](https://arxiv.org/abs/2403.07489). _Algebr. Geom. Topol._
 
@@ -75,7 +74,6 @@
   
 ### 2022
 
-* G. Janssens. [Codimension Growth of Lie algebras with a generalized action](https://arxiv.org/abs/1911.12335). _Proc. Amer. Math. Soc. 150 (2022), no. 7, 2741–2754._
 * F. Cedó, E. Jespers, J. Okniński. [Primitive set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2003.01983). _Commun. Contemp. Math. 24 (2022), no. 9, Paper No. 2150105, 10 pp_. 
 * A. Bächle, G. Janssens, E. Jespers, A. Kiefer, D. Temmerman. [A dichotomy for integral group rings via higher modular groups as amalgamated products](https://arxiv.org/abs/1811.12226). _J. Algebra 604 (2022), 185–223_. 
 * I. Colazzo, E. Jespers, A. Van Antwerpen, C. Verwimp. [Left non-degenerate set-theoretic solutions of the Yang-Baxter equation and semitrusses](https://www.sciencedirect.com/science/article/pii/S0021869322003520?via%3Dihub), _J. Algebra 610 (2022), 409-462_.
