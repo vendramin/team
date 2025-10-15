@@ -29,11 +29,9 @@
 * [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home). Supervisors: L. Vendramin and J. Vercruysse. 
 * Santiago Ramírez. Supervisor: L. Vendramin.
 
-#### Former
+### Former members 
 
-* (2025) [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage). Supervisors: A. Van Antwerpen and L. Vendramin, [thesis](files/trappeniers.pdf).
-* (2025) Emiliano Acri. Supervisor: L. Vendramin, [thesis](https://leandrovendramin.org/files/acri.pdf).
-* (2022) Charlotte Verwimp. Supervisor: Eric Jespers, [thesis](https://leandrovendramin.org/files/verwimp.pdf).
+Click [here](former.md). 
 
 ## Publications
 
