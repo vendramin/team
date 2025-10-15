@@ -2,6 +2,7 @@
 
 ### 2025
 
+* Istvan Heckenberger (Marburg, Germany). 15/10-18/10. 
 * Nicolás Andruskiewitsch (Córdoba, Argentina), 26/9-1/11. VUB-Leerstoel.  
 * Mahender Singh (Mohali, India), 7/3-14/3. 
 * Teresa Krick (Buenos Aires, Argentina), 28/2. 
