@@ -28,7 +28,6 @@
 ## Accepted for publication
 
 * B. Brück and K.I. Piterman. [Connectivity of partial basis complexes of freely decomposable groups](https://arxiv.org/abs/2410.17121). _Bull. Lond. Math Soc._ 
-* K. Piterman, I. Sadofschi Costa. [Group actions on contractible 2-complexes II](https://arxiv.org/abs/2102.11459). _Invent. Math._
 * D. Ferri, A. Sciandra. [Matched pairs and Yetter-Drinfeld braces](https://arxiv.org/abs/2406.10009). _Canad. J. Math._
 * K. Piterman. [Spherical p-group complexes arising from finite groups of Lie type](https://arxiv.org/abs/2403.07489). _Algebr. Geom. Topol._
 
@@ -39,6 +38,7 @@
 
 
 ### 2025
+* K. Piterman, I. Sadofschi Costa. [Group actions on contractible 2-complexes II](https://arxiv.org/abs/2102.11459). _Invent. Math. 242 (2025), no. 2, 563--570._
 * M. Gran, T. Letourmy, L. Vendramin. [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056).  _J. Pure Appl. Algebra 229 (2025), no. 11, Paper No. 108085._
 * K. Piterman, V. Welker. [Posets arising from decompositions of objects in a monoidal category](https://arxiv.org/abs/2401.09280). _Forum Math. Sigma 13 (2025), Paper No. e123._
 * D. Ferri. [On dynamical skew braces and skew bracoids](https://arxiv.org/abs/2410.10717). _J. Pure Appl. Algebra 229 (2025), no. 9, Paper No. 108036._
