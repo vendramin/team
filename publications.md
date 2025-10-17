@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* A. Darlington, C. Tsang. [Hopf-Galois structures of cyclic type on parallel extensions of prime power degree](https://arxiv.org/abs/2510.14473).
 * D. Ferri. [Split Lemma and First Isomorphism Theorem for groupoids](https://arxiv.org/abs/2509.13973).
 * M. Damele, A. Loi, M. Mereb, L. Vendramin. [Galois' Professor's Revenge](https://arxiv.org/abs/2509.09662).
 * N. Andruskiewitsch, F. Dumas. [On the super Jordan plane](https://arxiv.org/pdf/2509.01918).
