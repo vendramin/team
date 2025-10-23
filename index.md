@@ -7,7 +7,7 @@
 * Istvan Heckenberger.-->
 
 ### VUB-Leerstoel
-* [Nicolás Andruskiewitsch](https://www.famaf.unc.edu.ar/~andrus/).
+* [Nicolás Andruskiewitsch](https://www.famaf.unc.edu.ar/~andrus/). [Here](https://github.com/vendramin/andruskiewitsch/blob/main/index.md) is the link to Andruskiewitsch's course. 
 
 ### Postdocs
 
