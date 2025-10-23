@@ -12,7 +12,7 @@
 ### Postdocs
 
 * Meijun Liu. 
-* Magdalena Wiertel.
+* [Magdalena Wiertel](https://mimuw.edu.pl/~mwiertel/).
 * [Andrew Darlington](https://sites.google.com/view/andrewdarlington/home?authuser=0). 
 * [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite?pli=1).
 * [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/).
