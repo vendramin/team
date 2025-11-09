@@ -14,7 +14,6 @@
 * I. Angiono, L. Vendramin. [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555). GAP code DOI: [10.5281/zenodo.15554003](https://doi.org/10.5281/zenodo.15554003).
 * D. Ferri. [Reflections and Drinfeld twists for set-theoretic Yang-Baxter maps](https://arxiv.org/abs/2504.21678). 
 * A. Kanrar, C. Roelants, M. Yadav. [Central series' and n-isoclinism of skew left braces](https://arxiv.org/abs/2503.10313).
-* D. Ferri, Y. Shibukawa. [Structure groupoids of quiver-theoretic Yang-Baxter maps](https://arxiv.org/abs/2503.10327).
 * M. Mereb, L. Vendramin. [Rubik's as a Galois'](http://arxiv.org/abs/2411.11566).
 * N. Andruskiewitsch, I. Heckenberger, L. Vendramin. [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304).
 * C. Dietzel, E. Feingesicht, S. Properzi. [Indecomposability and irreducibility of monomial representations for set-theoretical solutions to the Yang-Baxter equation](https://arxiv.org/abs/2409.10648).
@@ -27,6 +26,7 @@
 
 ## Accepted for publication
 
+* D. Ferri, Y. Shibukawa. [Structure groupoids of quiver-theoretic Yang-Baxter maps](https://arxiv.org/abs/2503.10327). _J. Algebra_.
 * B. Brück and K.I. Piterman. [Connectivity of partial basis complexes of freely decomposable groups](https://arxiv.org/abs/2410.17121). _Bull. Lond. Math Soc._ 
 * D. Ferri, A. Sciandra. [Matched pairs and Yetter-Drinfeld braces](https://arxiv.org/abs/2406.10009). _Canad. J. Math._
 * K. Piterman. [Spherical p-group complexes arising from finite groups of Lie type](https://arxiv.org/abs/2403.07489). _Algebr. Geom. Topol._
