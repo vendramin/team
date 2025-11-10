@@ -48,6 +48,11 @@ Click [here](conferences.md) for the list of conferences organized by our group.
 
 Click [here](grants.md) to see our grants. 
 
+## Prizes
+
+* (2025) Kevin Piterman - BMS Young Scholar Award. 
+* (2025) Leandro Vendramin - Ferran Ferran Sunyer i Balaguer Prize.
+  
 ## Visitors
 
 Click [here](visitors.md) for a detailed list of long and short-term visitors. 
