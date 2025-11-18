@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* N. Andruskiewitsch, D. Bagio, S. Della Flora, D. Flôres. [The Green ring of a restricted enveloping algebra in characteristic 2](https://arxiv.org/abs/2511.13345v1).
 * A. Darlington, C. Tsang. [Hopf-Galois structures of cyclic type on parallel extensions of prime power degree](https://arxiv.org/abs/2510.14473).
 * D. Ferri. [Split Lemma and First Isomorphism Theorem for groupoids](https://arxiv.org/abs/2509.13973).
 * M. Damele, A. Loi, M. Mereb, L. Vendramin. [Galois' Professor's Revenge](https://arxiv.org/abs/2509.09662).
