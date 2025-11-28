@@ -38,7 +38,7 @@ Click [here](publications.md) for the list of publications.
 
 ## Seminar 
 
-The webpage of our algebra seminar is [here](seminar.md). 
+The webpage of our algebra seminar is [here](seminar.md). We also have a [Magma](https://leandrovendramin.org/magma/) seminar. 
 
 ## Conferences organized 
 
