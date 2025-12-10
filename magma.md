@@ -4,18 +4,19 @@ The idea is to hold an informal, friendly seminar/workshop to explore the comput
 
 ## Problems
 
-[Here](problems.md) we collect some questions, problems and exercises. 
+[Here](https://leandrovendramin.org/magma) we collect some questions, problems, exercises and slides of the talks. 
 
 ## Schedule and slides
 
 |   Lecture   |    Time      | Room | Speaker | 
 |:-----------:|:------------:|:----:|:-------:| 
-|      1      | 27/11/2025, 14:00 | G.6.60 | [(Vendramin) We need Magma!](slides/vendramin.pdf) |
-|      2      | 5/12/2025, 14:00 | G.6.60 | [(Liu) Basic group theory](slides/liu.pdf) |
+|      1      | 27/11/2025, 14:00 | G.6.60 | (Vendramin) We need Magma!|
+|      2      | 5/12/2025, 14:00 | G.6.60 | (Liu) Basic group theory |
 
 ## Some links
 
-* [Here](https://magma.maths.usyd.edu.au/calc/) is a free online Magma calculator. 
+* [Here](https://magma.maths.usyd.edu.au/calc/) is a free online Magma calculator.
+* The Magma [handbook](https://magma.maths.usyd.edu.au/magma/handbook/).
 
 ## Wanna contribute? 
 
