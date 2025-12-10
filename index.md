@@ -7,7 +7,7 @@
 * Istvan Heckenberger.-->
 
 ### VUB-Leerstoel
-* [Nicolás Andruskiewitsch](https://www.famaf.unc.edu.ar/~andrus/). [Here](https://leandrovendramin.org/andruskiewitsch/) is the link to Andruskiewitsch's course. 
+* [Nicolás Andruskiewitsch](https://www.famaf.unc.edu.ar/~andrus/). His course on Hopf algebras is [here](https://leandrovendramin.org/andruskiewitsch/). 
 
 ### Postdocs
 
@@ -38,7 +38,7 @@ Click [here](publications.md) for the list of publications.
 
 ## Seminar 
 
-The webpage of our algebra seminar is [here](seminar.md). We also have a [Magma](https://leandrovendramin.org/magma/) seminar. 
+The webpage of our algebra seminar is [here](seminar.md). We also have a [Magma](https://leandrovendramin.org/team/workshop.html) seminar. 
 
 ## Conferences organized 
 
