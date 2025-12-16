@@ -10,9 +10,9 @@ The idea is to hold an informal, friendly seminar/workshop to explore the comput
 
 |   Lecture   |    Time      | Room | Speaker | 
 |:-----------:|:------------:|:----:|:-------:| 
-|      1      | 27/11/2025, 14:00 | G.6.60 | [(Vendramin) We need Magma!](slides/20251127-vendramin.pdf)|
-|      2      | 5/12/2025, 14:00 | G.6.60 | [(Liu) Basic group theory](slides/20251205-liu.pdf) |
-|      3      | 16/12/2025, 14:00 | G.6.60 | [(Roelants) Matrices and all that](slides/20251216-roelants.pdf) |
+|      1      | 27/11/2025, 14:00 | G.6.60 | [(Vendramin) We need Magma!](slides/2025-11-27-vendramin.pdf)|
+|      2      | 5/12/2025, 14:00 | G.6.60 | [(Liu) Basic group theory](slides/2025-12-05-liu.pdf) |
+|      3      | 16/12/2025, 14:00 | G.6.60 | [(Roelants) Matrices and all that](slides/2025-12-16-roelants.pdf) |
 
 
 ## Some links
