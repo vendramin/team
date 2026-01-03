@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* B. Brück, J. Miller, K.I. Piterman. [An analogue of Rognes' connectivity conjecture for free groups](https://arxiv.org/abs/2512.19128).
 * S. Properzi, Y. Qin. [L-algebras and their ideals: from simplicity to semidirect products](https://arxiv.org/abs/2512.08579).
 * M. Mazzotta, P. Stefanelli, M. Wiertel. [Quasi racks, quasi bijective and quasi non-degenerate set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2512.04215).
 * K. Piterman, J. Shareshian, V. Welker. [Posets of decompositions in spherical buildings](https://arxiv.org/abs/2511.22531).
