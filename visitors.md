@@ -1,5 +1,9 @@
 ## Visitors
 
+### 2026 
+
+* Manoj Yadav (Allahabad, India), 1/6-30/7. Supported by FWO V503126N.
+
 ### 2025
 
 * Istvan Heckenberger (Marburg, Germany). 15/10-18/10. 

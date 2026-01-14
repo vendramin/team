@@ -23,6 +23,7 @@
 * 2022-2024. [Feodor Lynen Research Postdoctoral Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship). Carsten Dietzel. Host: L. Vendramin. 
 
 ### Funding obtained for visitors  
+* 2026: Manoj Yadav, Scientific Say in Flanders (V503126N), from 1/6 to 30/6. Host: L. Vendramin.
 * 2025: [Francqui VUB-Leerstoel](https://leandrovendramin.org/heckenberger/) for István Heckenberger. Host: L. Vendramin. €6000.
 * 2025: [VUB-Leerstoel](https://leandrovendramin.org/andruskiewitsch/) for Nicolás Andruskiewitsch. Host: L. Vendramin. €6000.
 * 2024: Be'eri Greenfeld, Scientific Stay in Flanders (V507824N), from 24/11 to 05/1. Host: L. Vendramin. 
