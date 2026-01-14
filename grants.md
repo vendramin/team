@@ -31,6 +31,7 @@
 
 #### Small travel grants
 
+* (2026) FWO V422026N. Kevin Piterman.
 * (2024) FWO K231124N. Kevin Piterman.  
 * (2023) FWO K248323N. Silvia Properzi.
  
