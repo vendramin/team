@@ -4,11 +4,11 @@
 * [Leandro Vendramin](https://leandrovendramin.org/).
 
 ### Francqui VUB-Leerstoel
-* [Istvan Heckenberger](https://www.uni-marburg.de/en/staff-info?dn=kqb1nhxgnl). His course on Nichols algebras and Weyl groupoids
+* [Istvan Heckenberger](https://www.uni-marburg.de/en/staff-info?dn=kqb1nhxgnl). His course on _Nichols algebras and root systems_ 
 is [here](https://leandrovendramin.org/heckenberger/).
 
 ### VUB-Leerstoel
-* [Nicolás Andruskiewitsch](https://www.famaf.unc.edu.ar/~andrus/). His course on Hopf algebras is [here](https://leandrovendramin.org/andruskiewitsch/). 
+* [Nicolás Andruskiewitsch](https://www.famaf.unc.edu.ar/~andrus/). His course on _Hopf algebras over simple groups_ is [here](https://leandrovendramin.org/andruskiewitsch/). 
 
 ### Postdocs
 
