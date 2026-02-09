@@ -38,7 +38,7 @@
 ## Published
 
 ### Books
-* F. Cedó, L. Vendramin. [Groups, Radical Rings, and the Yang-Baxter Equation](https://link.springer.com/book/9783032015235?srsltid=AfmBOoqemrL_uphdbNFYHigOPdVYlB8xzu53lYaPzzu-IWOD5v70UeJF). Progress in Mathematics, volume 361. Winner of the 2025 [Ferran Sunyer i Balaguer Prize](https://ffsb.iec.cat/en/the-ferran-sunyer-i-balaguer-prize/). Birkhäuser.
+* F. Cedó, L. Vendramin. [Groups, Radical Rings, and the Yang-Baxter Equation](https://tidd.ly/3ZpCdha). Progress in Mathematics, volume 361. Winner of the 2025 [Ferran Sunyer i Balaguer Prize](https://ffsb.iec.cat/en/the-ferran-sunyer-i-balaguer-prize/). Birkhäuser.
 
 ### 2026
 * D. Ferri, Y. Shibukawa. [Structure groupoids of quiver-theoretic Yang-Baxter maps](https://arxiv.org/abs/2503.10327). _J. Algebra 690 (2026), 146--201_.
