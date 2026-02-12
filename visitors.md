@@ -3,6 +3,8 @@
 ### 2026 
 
 * Manoj Yadav (Allahabad, India), 1/6-30/7. Supported by FWO V503126N.
+* Istvan Heckenberger (Marburg, Germany). 12/2-13/2.
+* Thomas Breuer (Aachen, Germany), 11/2.
 
 ### 2025
 
