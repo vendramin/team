@@ -33,17 +33,21 @@
 * K. Piterman, C. Roelants. [On reducible Killing forms for groups of Lie type](https://arxiv.org/abs/2507.17902). _J. Pure Appl. Algebra_.
 * S. Guo, Y. Qin, G. Zhou. [Modified Rota-Baxter operators of non-zero weight on 3-Lie algebras](https://arxiv.org/abs/2601.01942). _J. Algebra Appl._ 
 * D. Ferri, A. Sciandra. [Matched pairs and Yetter-Drinfeld braces](https://arxiv.org/abs/2406.10009). _Canad. J. Math._
-* K. Piterman. [Spherical p-group complexes arising from finite groups of Lie type](https://arxiv.org/abs/2403.07489). _Algebr. Geom. Topol._
 
 ## Published
 
 ### Books
+
 * F. Cedó, L. Vendramin. [Groups, Radical Rings, and the Yang-Baxter Equation](https://tidd.ly/3ZpCdha). Progress in Mathematics, volume 361. Winner of the 2025 [Ferran Sunyer i Balaguer Prize](https://ffsb.iec.cat/en/the-ferran-sunyer-i-balaguer-prize/). Birkhäuser.
 
 ### 2026
+
+* K. Piterman. [Spherical p-group complexes arising from finite groups of Lie type](https://arxiv.org/abs/2403.07489). _Algebr. Geom. Topol. 26 (2026), no. 2, 791--824._
 * D. Ferri, Y. Shibukawa. [Structure groupoids of quiver-theoretic Yang-Baxter maps](https://arxiv.org/abs/2503.10327). _J. Algebra 690 (2026), 146--201_.
 
 ### 2025
+
+* I. Colazzo, J. Plavnik, E. Rowell, L. Vendramin. [Mini-Workshop: The Yang–Baxter Equation and Representations of Braid Groups](https://ems.press/journals/owr/articles/14299580). _Oberwolfach Rep. 22 (2025), no. 4, pp. 2633–2672_.
 * B. Brück and K.I. Piterman. [Connectivity of partial basis complexes of freely decomposable groups](https://arxiv.org/abs/2410.17121). _Bull. Lond. Math. Soc. 57 (2025), no. 12, 3919--3933._
 * K. Piterman, I. Sadofschi Costa. [Group actions on contractible 2-complexes II](https://arxiv.org/abs/2102.11459). _Invent. Math. 242 (2025), no. 2, 563--570._
 * M. Gran, T. Letourmy, L. Vendramin. [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056).  _J. Pure Appl. Algebra 229 (2025), no. 11, Paper No. 108085._
