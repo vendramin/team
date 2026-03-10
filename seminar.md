@@ -14,6 +14,7 @@ Alternatively: [iCal](https://calendar.google.com/calendar/ical/84fcd62805e4eb85
 
 ## Organizers
 * Silvia Properzi.
+* Charlotte Roelants.
 * Leandro Vendramin. 
 
 
