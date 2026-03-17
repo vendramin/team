@@ -10,7 +10,7 @@ The idea is to hold an informal, friendly seminar/workshop to explore the comput
 
 |   Lecture   |    Time      | Room | Speaker | 
 |:-----------:|:------------:|:----:|:-------:| 
-|      7      | 17/03/2026, 15:00 | G.6.60 | [(Darlington) Paralelization](slides/2026-03-17-darlington.pdf) -- [code](2026-03-17-code.tar.gz)|
+|      7      | 17/03/2026, 15:00 | G.6.60 | [(Darlington) Paralelization](slides/2026-03-17-darlington.pdf) -- [code](slides/2026-03-17-code.tar.gz)|
 |      6      | 03/03/2026, 15:00 | G.6.60 | [(Wiertel) (Not only commutative) Gröbner bases](slides/2026-03-03-wiertel.pdf) |
 |      5      | 13/02/2026, 14:00 | G.6.60 | [(Leemans) Constructing coset geometries with Magma](slides/2026-02-13-leemans.pdf) |
 |      4      | 13/01/2026, 14:00 | G.6.60 | [(Properzi) Rings and algebras](slides/2026-01-13-properzi.pdf) |
