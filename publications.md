@@ -5,7 +5,6 @@
 * N. Andruskiewitsch, G. Carnovale. [Hopf algebras over Chevalley groups](https://arxiv.org/abs/2603.12428).
 * B. Brück, J. Miller, K.I. Piterman. [An analogue of Rognes' connectivity conjecture for free groups](https://arxiv.org/abs/2512.19128).
 * S. Properzi, Y. Qin. [L-algebras and their ideals: from simplicity to semidirect products](https://arxiv.org/abs/2512.08579).
-* M. Mazzotta, P. Stefanelli, M. Wiertel. [Quasi racks, quasi bijective and quasi non-degenerate set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2512.04215).
 * K. Piterman, J. Shareshian, V. Welker. [Posets of decompositions in spherical buildings](https://arxiv.org/abs/2511.22531).
 * N. Andruskiewitsch, D. Bagio, S. Della Flora, D. Flôres. [The Green ring of a restricted enveloping algebra in characteristic 2](https://arxiv.org/abs/2511.13345v1).
 * A. Darlington, C. Tsang. [Hopf-Galois structures of cyclic type on parallel extensions of prime power degree](https://arxiv.org/abs/2510.14473).
@@ -31,6 +30,7 @@
 
 ## Accepted for publication
 
+* M. Mazzotta, P. Stefanelli, M. Wiertel. [Quasi racks, quasi bijective and quasi non-degenerate set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2512.04215). _J. Algebra Appl._ 
 * K. Piterman, C. Roelants. [On reducible Killing forms for groups of Lie type](https://arxiv.org/abs/2507.17902). _J. Pure Appl. Algebra_.
 * S. Guo, Y. Qin, G. Zhou. [Modified Rota-Baxter operators of non-zero weight on 3-Lie algebras](https://arxiv.org/abs/2601.01942). _J. Algebra Appl._ 
 * D. Ferri, A. Sciandra. [Matched pairs and Yetter-Drinfeld braces](https://arxiv.org/abs/2406.10009). _Canad. J. Math._
