@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* A. Darlington. E. O'Brien. [Constructing Hopf-Galois structures and skew bracoids of small degree](https://arxiv.org/abs/2508.03372). 
 * N. Andruskiewitsch, G. Carnovale. [Hopf algebras over Chevalley groups](https://arxiv.org/abs/2603.12428).
 * B. Brück, J. Miller, K.I. Piterman. [An analogue of Rognes' connectivity conjecture for free groups](https://arxiv.org/abs/2512.19128).
 * S. Properzi, Y. Qin. [L-algebras and their ideals: from simplicity to semidirect products](https://arxiv.org/abs/2512.08579).
@@ -12,7 +13,6 @@
 * M. Damele, A. Loi, M. Mereb, L. Vendramin. [Galois' Professor's Revenge](https://arxiv.org/abs/2509.09662).
 * N. Andruskiewitsch, F. Dumas. [On the super Jordan plane](https://arxiv.org/pdf/2509.01918).
 * K. Piterman, V. Welker. [Notes on the topology of independence structures](https://arxiv.org/abs/2508.12971).
-* A. Darlington. [An Algorithm for Computing Hopf-Galois Structures and Skew Bracoids of Low Degree](https://arxiv.org/abs/2508.03372). 
 * A. Darlington. [Hopf-Galois structures on separable field extensions of degree related to Cunningham chains](https://arxiv.org/abs/2508.03384).
 * T. Letourmy. [Free commutative skew braces](https://arxiv.org/abs/2506.19765). 
 * I. Angiono, L. Vendramin. [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555). GAP code DOI: [10.5281/zenodo.15554003](https://doi.org/10.5281/zenodo.15554003).
