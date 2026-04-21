@@ -16,7 +16,6 @@
 * A. Darlington. [Hopf-Galois structures on separable field extensions of degree related to Cunningham chains](https://arxiv.org/abs/2508.03384).
 * T. Letourmy. [Free commutative skew braces](https://arxiv.org/abs/2506.19765). 
 * I. Angiono, L. Vendramin. [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555). GAP code DOI: [10.5281/zenodo.15554003](https://doi.org/10.5281/zenodo.15554003).
-* D. Ferri. [Reflections and Drinfeld twists for set-theoretic Yang-Baxter maps](https://arxiv.org/abs/2504.21678). 
 * M. Mereb, L. Vendramin. [Rubik's as a Galois'](http://arxiv.org/abs/2411.11566).
 * N. Andruskiewitsch, I. Heckenberger, L. Vendramin. [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304).
 * C. Dietzel, E. Feingesicht, S. Properzi. [Indecomposability and irreducibility of monomial representations for set-theoretical solutions to the Yang-Baxter equation](https://arxiv.org/abs/2409.10648).
@@ -29,6 +28,7 @@
 
 ## Accepted for publication
 
+* D. Ferri. [Reflections and Drinfeld twists for set-theoretic Yang-Baxter maps](https://arxiv.org/abs/2504.21678). _Ann. Mat. Pura Appl._
 * A. Kanrar, C. Roelants, M. Yadav. [Central series' and n-isoclinism of skew left braces](https://arxiv.org/abs/2503.10313). _Ann. Mat. Pura Appl._
 * Y. Qin, K. Wang. [From homotopy Rota-Baxter algebras to Pre-Calabi-Yau and homotopy double Poisson algebras](https://arxiv.org/abs/2506.03952). _Comm. Math. Phys._
 * M. Mazzotta, P. Stefanelli, M. Wiertel. [Quasi racks, quasi bijective and quasi non-degenerate set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2512.04215). _J. Algebra Appl._ 
