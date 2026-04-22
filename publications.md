@@ -8,7 +8,6 @@
 * S. Properzi, Y. Qin. [L-algebras and their ideals: from simplicity to semidirect products](https://arxiv.org/abs/2512.08579).
 * K. Piterman, J. Shareshian, V. Welker. [Posets of decompositions in spherical buildings](https://arxiv.org/abs/2511.22531).
 * N. Andruskiewitsch, D. Bagio, S. Della Flora, D. Flôres. [The Green ring of a restricted enveloping algebra in characteristic 2](https://arxiv.org/abs/2511.13345v1).
-* A. Darlington, C. Tsang. [Hopf-Galois structures of cyclic type on parallel extensions of prime power degree](https://arxiv.org/abs/2510.14473).
 * D. Ferri. [Split Lemma and First Isomorphism Theorem for groupoids](https://arxiv.org/abs/2509.13973).
 * M. Damele, A. Loi, M. Mereb, L. Vendramin. [Galois' Professor's Revenge](https://arxiv.org/abs/2509.09662).
 * N. Andruskiewitsch, F. Dumas. [On the super Jordan plane](https://arxiv.org/pdf/2509.01918).
@@ -28,6 +27,7 @@
 
 ## Accepted for publication
 
+* A. Darlington, C. Tsang. [Hopf-Galois structures of cyclic type on parallel extensions of prime power degree](https://arxiv.org/abs/2510.14473). _J. Algebra_.
 * D. Ferri. [Reflections and Drinfeld twists for set-theoretic Yang-Baxter maps](https://arxiv.org/abs/2504.21678). _Ann. Mat. Pura Appl._
 * A. Kanrar, C. Roelants, M. Yadav. [Central series' and n-isoclinism of skew left braces](https://arxiv.org/abs/2503.10313). _Ann. Mat. Pura Appl._
 * Y. Qin, K. Wang. [From homotopy Rota-Baxter algebras to Pre-Calabi-Yau and homotopy double Poisson algebras](https://arxiv.org/abs/2506.03952). _Comm. Math. Phys._
