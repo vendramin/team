@@ -2,22 +2,19 @@
 
 ## Preprints
 
+* A. Darlington. E. O'Brien. [Constructing Hopf-Galois structures and skew bracoids of small degree](https://arxiv.org/abs/2508.03372). 
 * N. Andruskiewitsch, G. Carnovale. [Hopf algebras over Chevalley groups](https://arxiv.org/abs/2603.12428).
 * B. Brück, J. Miller, K.I. Piterman. [An analogue of Rognes' connectivity conjecture for free groups](https://arxiv.org/abs/2512.19128).
 * S. Properzi, Y. Qin. [L-algebras and their ideals: from simplicity to semidirect products](https://arxiv.org/abs/2512.08579).
 * K. Piterman, J. Shareshian, V. Welker. [Posets of decompositions in spherical buildings](https://arxiv.org/abs/2511.22531).
 * N. Andruskiewitsch, D. Bagio, S. Della Flora, D. Flôres. [The Green ring of a restricted enveloping algebra in characteristic 2](https://arxiv.org/abs/2511.13345v1).
-* A. Darlington, C. Tsang. [Hopf-Galois structures of cyclic type on parallel extensions of prime power degree](https://arxiv.org/abs/2510.14473).
 * D. Ferri. [Split Lemma and First Isomorphism Theorem for groupoids](https://arxiv.org/abs/2509.13973).
 * M. Damele, A. Loi, M. Mereb, L. Vendramin. [Galois' Professor's Revenge](https://arxiv.org/abs/2509.09662).
 * N. Andruskiewitsch, F. Dumas. [On the super Jordan plane](https://arxiv.org/pdf/2509.01918).
 * K. Piterman, V. Welker. [Notes on the topology of independence structures](https://arxiv.org/abs/2508.12971).
-* A. Darlington. [An Algorithm for Computing Hopf-Galois Structures and Skew Bracoids of Low Degree](https://arxiv.org/abs/2508.03372). 
 * A. Darlington. [Hopf-Galois structures on separable field extensions of degree related to Cunningham chains](https://arxiv.org/abs/2508.03384).
 * T. Letourmy. [Free commutative skew braces](https://arxiv.org/abs/2506.19765). 
 * I. Angiono, L. Vendramin. [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555). GAP code DOI: [10.5281/zenodo.15554003](https://doi.org/10.5281/zenodo.15554003).
-* D. Ferri. [Reflections and Drinfeld twists for set-theoretic Yang-Baxter maps](https://arxiv.org/abs/2504.21678). 
-* A. Kanrar, C. Roelants, M. Yadav. [Central series' and n-isoclinism of skew left braces](https://arxiv.org/abs/2503.10313).
 * M. Mereb, L. Vendramin. [Rubik's as a Galois'](http://arxiv.org/abs/2411.11566).
 * N. Andruskiewitsch, I. Heckenberger, L. Vendramin. [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304).
 * C. Dietzel, E. Feingesicht, S. Properzi. [Indecomposability and irreducibility of monomial representations for set-theoretical solutions to the Yang-Baxter equation](https://arxiv.org/abs/2409.10648).
@@ -30,6 +27,10 @@
 
 ## Accepted for publication
 
+* A. Darlington, C. Tsang. [Hopf-Galois structures of cyclic type on parallel extensions of prime power degree](https://arxiv.org/abs/2510.14473). _J. Algebra_.
+* D. Ferri. [Reflections and Drinfeld twists for set-theoretic Yang-Baxter maps](https://arxiv.org/abs/2504.21678). _Ann. Mat. Pura Appl._
+* A. Kanrar, C. Roelants, M. Yadav. [Central series' and n-isoclinism of skew left braces](https://arxiv.org/abs/2503.10313). _Ann. Mat. Pura Appl._
+* Y. Qin, K. Wang. [From homotopy Rota-Baxter algebras to Pre-Calabi-Yau and homotopy double Poisson algebras](https://arxiv.org/abs/2506.03952). _Comm. Math. Phys._
 * M. Mazzotta, P. Stefanelli, M. Wiertel. [Quasi racks, quasi bijective and quasi non-degenerate set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2512.04215). _J. Algebra Appl._ 
 * K. Piterman, C. Roelants. [On reducible Killing forms for groups of Lie type](https://arxiv.org/abs/2507.17902). _J. Pure Appl. Algebra_.
 * S. Guo, Y. Qin, G. Zhou. [Modified Rota-Baxter operators of non-zero weight on 3-Lie algebras](https://arxiv.org/abs/2601.01942). _J. Algebra Appl._ 
