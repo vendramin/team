@@ -32,7 +32,6 @@
 * A. Kanrar, C. Roelants, M. Yadav. [Central series' and n-isoclinism of skew left braces](https://arxiv.org/abs/2503.10313). _Ann. Mat. Pura Appl._
 * Y. Qin, K. Wang. [From homotopy Rota-Baxter algebras to Pre-Calabi-Yau and homotopy double Poisson algebras](https://arxiv.org/abs/2506.03952). _Comm. Math. Phys._
 * M. Mazzotta, P. Stefanelli, M. Wiertel. [Quasi racks, quasi bijective and quasi non-degenerate set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2512.04215). _J. Algebra Appl._ 
-* K. Piterman, C. Roelants. [On reducible Killing forms for groups of Lie type](https://arxiv.org/abs/2507.17902). _J. Pure Appl. Algebra_.
 * S. Guo, Y. Qin, G. Zhou. [Modified Rota-Baxter operators of non-zero weight on 3-Lie algebras](https://arxiv.org/abs/2601.01942). _J. Algebra Appl._ 
 * D. Ferri, A. Sciandra. [Matched pairs and Yetter-Drinfeld braces](https://arxiv.org/abs/2406.10009). _Canad. J. Math._
 
@@ -44,6 +43,7 @@
 
 ### 2026
 
+* K. Piterman, C. Roelants. [On reducible Killing forms for groups of Lie type](https://arxiv.org/abs/2507.17902). _J. Pure Appl. Algebra 230 (2026), no. 4, Paper no. 108226_
 * K. Piterman. [Spherical p-group complexes arising from finite groups of Lie type](https://arxiv.org/abs/2403.07489). _Algebr. Geom. Topol. 26 (2026), no. 2, 791--824._
 * D. Ferri, Y. Shibukawa. [Structure groupoids of quiver-theoretic Yang-Baxter maps](https://arxiv.org/abs/2503.10327). _J. Algebra 690 (2026), 146--201_.
 
