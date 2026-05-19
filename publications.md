@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* D. Ferri. [On quiver skew braces, their ideals and products](https://arxiv.org/abs/2605.11903).
 * A. Darlington. E. O'Brien. [Constructing Hopf-Galois structures and skew bracoids of small degree](https://arxiv.org/abs/2508.03372). 
 * N. Andruskiewitsch, G. Carnovale. [Hopf algebras over Chevalley groups](https://arxiv.org/abs/2603.12428).
 * B. Brück, J. Miller, K.I. Piterman. [An analogue of Rognes' connectivity conjecture for free groups](https://arxiv.org/abs/2512.19128).
@@ -20,14 +21,12 @@
 * C. Dietzel, E. Feingesicht, S. Properzi. [Indecomposability and irreducibility of monomial representations for set-theoretical solutions to the Yang-Baxter equation](https://arxiv.org/abs/2409.10648).
 * S. Trappeniers. [A Lazard-type correspondence and applications to post-Lie rings and skew braces](https://arxiv.org/abs/2406.02475).
 * I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen. [Simple solutions of the Yang-Baxter equation](https://arxiv.org/abs/2312.09687).
-* I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen. [Structure algebras of finite set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2305.06023).
 * K. Piterman, L. Vendramin. [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023).  
 * C. Dietzel. [Decomposition and structure theorems for Garside-like groups with modular lattice structure](https://arxiv.org/abs/2304.04114).
 * M. Castelli, S. Trappeniers. [Studying solutions of the Yang-Baxter equation through skew braces, with an application to indecomposable involutive solutions with abelian permutation group](https://arxiv.org/abs/2303.00581).
 
 ## Accepted for publication
 
-* A. Darlington, C. Tsang. [Hopf-Galois structures of cyclic type on parallel extensions of prime power degree](https://arxiv.org/abs/2510.14473). _J. Algebra_.
 * D. Ferri. [Reflections and Drinfeld twists for set-theoretic Yang-Baxter maps](https://arxiv.org/abs/2504.21678). _Ann. Mat. Pura Appl._
 * A. Kanrar, C. Roelants, M. Yadav. [Central series' and n-isoclinism of skew left braces](https://arxiv.org/abs/2503.10313). _Ann. Mat. Pura Appl._
 * Y. Qin, K. Wang. [From homotopy Rota-Baxter algebras to Pre-Calabi-Yau and homotopy double Poisson algebras](https://arxiv.org/abs/2506.03952). _Comm. Math. Phys._
@@ -43,6 +42,8 @@
 
 ### 2026
 
+* I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen. [Structure algebras of finite set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2305.06023). _J. Algebra 705 (2026), 61--117._
+* A. Darlington, C. Tsang. [Hopf-Galois structures of cyclic type on parallel extensions of prime power degree](https://arxiv.org/abs/2510.14473). _J. Algebra 702 (2026), 147--175_.
 * K. Piterman, C. Roelants. [On reducible Killing forms for groups of Lie type](https://arxiv.org/abs/2507.17902). _J. Pure Appl. Algebra 230 (2026), no. 4, Paper no. 108226_
 * K. Piterman. [Spherical p-group complexes arising from finite groups of Lie type](https://arxiv.org/abs/2403.07489). _Algebr. Geom. Topol. 26 (2026), no. 2, 791--824._
 * D. Ferri, Y. Shibukawa. [Structure groupoids of quiver-theoretic Yang-Baxter maps](https://arxiv.org/abs/2503.10327). _J. Algebra 690 (2026), 146--201_.
