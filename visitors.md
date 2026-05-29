@@ -2,6 +2,8 @@
 
 ### 2026 
 
+* Juan Cuadra (Almería, Spain), 7/9-12/9.
+* Sebastian Halbig (Marburg, Germany), 1/6-3/6.
 * Manoj Yadav (Allahabad, India), 1/6-30/7. Supported by FWO V503126N.
 * Istvan Heckenberger (Marburg, Germany). 12/2-13/2.
 * Thomas Breuer (Aachen, Germany), 11/2.
