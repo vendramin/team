@@ -2,6 +2,7 @@
 
 ## Preprints
 
+* C. Dietzel, C. Roelants. [Non-degeneracy of Killing forms on real conjugacy classes of finite groups](https://arxiv.org/abs/2605.30408).
 * D. Ferri. [On quiver skew braces, their ideals and products](https://arxiv.org/abs/2605.11903).
 * A. Darlington. E. O'Brien. [Constructing Hopf-Galois structures and skew bracoids of small degree](https://arxiv.org/abs/2508.03372). 
 * N. Andruskiewitsch, G. Carnovale. [Hopf algebras over Chevalley groups](https://arxiv.org/abs/2603.12428).
