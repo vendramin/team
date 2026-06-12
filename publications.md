@@ -21,13 +21,13 @@
 * N. Andruskiewitsch, I. Heckenberger, L. Vendramin. [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304).
 * C. Dietzel, E. Feingesicht, S. Properzi. [Indecomposability and irreducibility of monomial representations for set-theoretical solutions to the Yang-Baxter equation](https://arxiv.org/abs/2409.10648).
 * S. Trappeniers. [A Lazard-type correspondence and applications to post-Lie rings and skew braces](https://arxiv.org/abs/2406.02475).
-* I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen. [Simple solutions of the Yang-Baxter equation](https://arxiv.org/abs/2312.09687).
 * K. Piterman, L. Vendramin. [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023).  
 * C. Dietzel. [Decomposition and structure theorems for Garside-like groups with modular lattice structure](https://arxiv.org/abs/2304.04114).
 * M. Castelli, S. Trappeniers. [Studying solutions of the Yang-Baxter equation through skew braces, with an application to indecomposable involutive solutions with abelian permutation group](https://arxiv.org/abs/2303.00581).
 
 ## Accepted for publication
 
+* I. Colazzo, E. Jespers, Ł. Kubat, A. Van Antwerpen. [Simple solutions of the Yang-Baxter equation](https://arxiv.org/abs/2312.09687). _Orbita Math_.
 * D. Ferri. [Reflections and Drinfeld twists for set-theoretic Yang-Baxter maps](https://arxiv.org/abs/2504.21678). _Ann. Mat. Pura Appl._
 * A. Kanrar, C. Roelants, M. Yadav. [Central series' and n-isoclinism of skew left braces](https://arxiv.org/abs/2503.10313). _Ann. Mat. Pura Appl._
 * Y. Qin, K. Wang. [From homotopy Rota-Baxter algebras to Pre-Calabi-Yau and homotopy double Poisson algebras](https://arxiv.org/abs/2506.03952). _Comm. Math. Phys._
