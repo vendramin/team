@@ -2,6 +2,7 @@
 
 ### 2026 
 
+* Giovanna Carnovale (Padova, Italy), 21/10-24/10. 
 * Nicolás Andruskiewitsch (Córdoba, Argentina), 30/9-7/10.
 * Juan Cuadra (Almería, Spain), 7/9-12/9.
 * Manoj Yadav (Allahabad, India), 1/9-30/10. Supported by IMU (India/Kumar/2026/SRF). 
