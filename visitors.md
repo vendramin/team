@@ -2,6 +2,7 @@
 
 ### 2026 
 
+* Xin Fang (Aachen, Germany), 28/10.
 * Giovanna Carnovale (Padova, Italy), 21/10-24/10. 
 * Nicolás Andruskiewitsch (Córdoba, Argentina), 30/9-7/10.
 * Juan Cuadra (Almería, Spain), 7/9-12/9.
